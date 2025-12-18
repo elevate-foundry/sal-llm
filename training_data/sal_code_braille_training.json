@@ -1,0 +1,1998 @@
+[
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'def'?\n\n### Response:\nThe python keyword 'def' in 8-dot braille is: ⠙⠑⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'class'?\n\n### Response:\nThe python keyword 'class' in 8-dot braille is: ⠉⠇⠁⠎⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'if'?\n\n### Response:\nThe python keyword 'if' in 8-dot braille is: ⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'elif'?\n\n### Response:\nThe python keyword 'elif' in 8-dot braille is: ⠑⠇⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'else'?\n\n### Response:\nThe python keyword 'else' in 8-dot braille is: ⠑⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'for'?\n\n### Response:\nThe python keyword 'for' in 8-dot braille is: ⠋⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'while'?\n\n### Response:\nThe python keyword 'while' in 8-dot braille is: ⠺⠓⠊⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'try'?\n\n### Response:\nThe python keyword 'try' in 8-dot braille is: ⠞⠗⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'except'?\n\n### Response:\nThe python keyword 'except' in 8-dot braille is: ⠑⠭⠉⠑⠏⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'finally'?\n\n### Response:\nThe python keyword 'finally' in 8-dot braille is: ⠋⠊⠝⠁⠇⠇⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'with'?\n\n### Response:\nThe python keyword 'with' in 8-dot braille is: ⠺⠊⠞⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'as'?\n\n### Response:\nThe python keyword 'as' in 8-dot braille is: ⠁⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'return'?\n\n### Response:\nThe python keyword 'return' in 8-dot braille is: ⠗⠑⠞⠥⠗⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'yield'?\n\n### Response:\nThe python keyword 'yield' in 8-dot braille is: ⠽⠊⠑⠇⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'raise'?\n\n### Response:\nThe python keyword 'raise' in 8-dot braille is: ⠗⠁⠊⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'break'?\n\n### Response:\nThe python keyword 'break' in 8-dot braille is: ⠃⠗⠑⠁⠅",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'continue'?\n\n### Response:\nThe python keyword 'continue' in 8-dot braille is: ⠉⠕⠝⠞⠊⠝⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'pass'?\n\n### Response:\nThe python keyword 'pass' in 8-dot braille is: ⠏⠁⠎⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'import'?\n\n### Response:\nThe python keyword 'import' in 8-dot braille is: ⠊⠍⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'from'?\n\n### Response:\nThe python keyword 'from' in 8-dot braille is: ⠋⠗⠕⠍",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'async'?\n\n### Response:\nThe python keyword 'async' in 8-dot braille is: ⠁⠎⠽⠝⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'await'?\n\n### Response:\nThe python keyword 'await' in 8-dot braille is: ⠁⠺⠁⠊⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'lambda'?\n\n### Response:\nThe python keyword 'lambda' in 8-dot braille is: ⠇⠁⠍⠃⠙⠁",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'print'?\n\n### Response:\nThe python builtin 'print' in 8-dot braille is: ⠏⠗⠊⠝⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'len'?\n\n### Response:\nThe python builtin 'len' in 8-dot braille is: ⠇⠑⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'range'?\n\n### Response:\nThe python builtin 'range' in 8-dot braille is: ⠗⠁⠝⠛⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'str'?\n\n### Response:\nThe python type 'str' in 8-dot braille is: ⠎⠞⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'int'?\n\n### Response:\nThe python type 'int' in 8-dot braille is: ⠊⠝⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'float'?\n\n### Response:\nThe python type 'float' in 8-dot braille is: ⠋⠇⠕⠁⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'list'?\n\n### Response:\nThe python type 'list' in 8-dot braille is: ⠇⠊⠎⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'dict'?\n\n### Response:\nThe python type 'dict' in 8-dot braille is: ⠙⠊⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'set'?\n\n### Response:\nThe python type 'set' in 8-dot braille is: ⠎⠑⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'tuple'?\n\n### Response:\nThe python type 'tuple' in 8-dot braille is: ⠞⠥⠏⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'bool'?\n\n### Response:\nThe python type 'bool' in 8-dot braille is: ⠃⠕⠕⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'None'?\n\n### Response:\nThe python constant 'None' in 8-dot braille is: ⡝⠕⠝⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'True'?\n\n### Response:\nThe python constant 'True' in 8-dot braille is: ⡞⠗⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'False'?\n\n### Response:\nThe python constant 'False' in 8-dot braille is: ⡋⠁⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the python keyword 'self'?\n\n### Response:\nThe python special 'self' in 8-dot braille is: ⠎⠑⠇⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'fn'?\n\n### Response:\nThe rust keyword 'fn' in 8-dot braille is: ⠋⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'let'?\n\n### Response:\nThe rust keyword 'let' in 8-dot braille is: ⠇⠑⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'mut'?\n\n### Response:\nThe rust keyword 'mut' in 8-dot braille is: ⠍⠥⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'const'?\n\n### Response:\nThe rust keyword 'const' in 8-dot braille is: ⠉⠕⠝⠎⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'static'?\n\n### Response:\nThe rust keyword 'static' in 8-dot braille is: ⠎⠞⠁⠞⠊⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'struct'?\n\n### Response:\nThe rust keyword 'struct' in 8-dot braille is: ⠎⠞⠗⠥⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'enum'?\n\n### Response:\nThe rust keyword 'enum' in 8-dot braille is: ⠑⠝⠥⠍",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'impl'?\n\n### Response:\nThe rust keyword 'impl' in 8-dot braille is: ⠊⠍⠏⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'trait'?\n\n### Response:\nThe rust keyword 'trait' in 8-dot braille is: ⠞⠗⠁⠊⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'pub'?\n\n### Response:\nThe rust keyword 'pub' in 8-dot braille is: ⠏⠥⠃",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'mod'?\n\n### Response:\nThe rust keyword 'mod' in 8-dot braille is: ⠍⠕⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'use'?\n\n### Response:\nThe rust keyword 'use' in 8-dot braille is: ⠥⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'match'?\n\n### Response:\nThe rust keyword 'match' in 8-dot braille is: ⠍⠁⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'if'?\n\n### Response:\nThe rust keyword 'if' in 8-dot braille is: ⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'else'?\n\n### Response:\nThe rust keyword 'else' in 8-dot braille is: ⠑⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'loop'?\n\n### Response:\nThe rust keyword 'loop' in 8-dot braille is: ⠇⠕⠕⠏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'while'?\n\n### Response:\nThe rust keyword 'while' in 8-dot braille is: ⠺⠓⠊⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'for'?\n\n### Response:\nThe rust keyword 'for' in 8-dot braille is: ⠋⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'in'?\n\n### Response:\nThe rust keyword 'in' in 8-dot braille is: ⠊⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'return'?\n\n### Response:\nThe rust keyword 'return' in 8-dot braille is: ⠗⠑⠞⠥⠗⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'async'?\n\n### Response:\nThe rust keyword 'async' in 8-dot braille is: ⠁⠎⠽⠝⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'await'?\n\n### Response:\nThe rust keyword 'await' in 8-dot braille is: ⠁⠺⠁⠊⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'move'?\n\n### Response:\nThe rust keyword 'move' in 8-dot braille is: ⠍⠕⠧⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'ref'?\n\n### Response:\nThe rust keyword 'ref' in 8-dot braille is: ⠗⠑⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'self'?\n\n### Response:\nThe rust special 'self' in 8-dot braille is: ⠎⠑⠇⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Self'?\n\n### Response:\nThe rust special 'Self' in 8-dot braille is: ⡎⠑⠇⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'where'?\n\n### Response:\nThe rust keyword 'where' in 8-dot braille is: ⠺⠓⠑⠗⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'i32'?\n\n### Response:\nThe rust type 'i32' in 8-dot braille is: ⠊⢉⢃",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'i64'?\n\n### Response:\nThe rust type 'i64' in 8-dot braille is: ⠊⢋⢙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'u32'?\n\n### Response:\nThe rust type 'u32' in 8-dot braille is: ⠥⢉⢃",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'u64'?\n\n### Response:\nThe rust type 'u64' in 8-dot braille is: ⠥⢋⢙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'f32'?\n\n### Response:\nThe rust type 'f32' in 8-dot braille is: ⠋⢉⢃",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'f64'?\n\n### Response:\nThe rust type 'f64' in 8-dot braille is: ⠋⢋⢙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'bool'?\n\n### Response:\nThe rust type 'bool' in 8-dot braille is: ⠃⠕⠕⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'char'?\n\n### Response:\nThe rust type 'char' in 8-dot braille is: ⠉⠓⠁⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'String'?\n\n### Response:\nThe rust type 'String' in 8-dot braille is: ⡎⠞⠗⠊⠝⠛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Vec'?\n\n### Response:\nThe rust type 'Vec' in 8-dot braille is: ⡧⠑⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Option'?\n\n### Response:\nThe rust type 'Option' in 8-dot braille is: ⡕⠏⠞⠊⠕⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Result'?\n\n### Response:\nThe rust type 'Result' in 8-dot braille is: ⡗⠑⠎⠥⠇⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Box'?\n\n### Response:\nThe rust type 'Box' in 8-dot braille is: ⡃⠕⠭",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Rc'?\n\n### Response:\nThe rust type 'Rc' in 8-dot braille is: ⡗⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the rust keyword 'Arc'?\n\n### Response:\nThe rust type 'Arc' in 8-dot braille is: ⡁⠗⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'func'?\n\n### Response:\nThe go keyword 'func' in 8-dot braille is: ⠋⠥⠝⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'var'?\n\n### Response:\nThe go keyword 'var' in 8-dot braille is: ⠧⠁⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'const'?\n\n### Response:\nThe go keyword 'const' in 8-dot braille is: ⠉⠕⠝⠎⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'type'?\n\n### Response:\nThe go keyword 'type' in 8-dot braille is: ⠞⠽⠏⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'struct'?\n\n### Response:\nThe go keyword 'struct' in 8-dot braille is: ⠎⠞⠗⠥⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'interface'?\n\n### Response:\nThe go keyword 'interface' in 8-dot braille is: ⠊⠝⠞⠑⠗⠋⠁⠉⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'package'?\n\n### Response:\nThe go keyword 'package' in 8-dot braille is: ⠏⠁⠉⠅⠁⠛⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'import'?\n\n### Response:\nThe go keyword 'import' in 8-dot braille is: ⠊⠍⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'if'?\n\n### Response:\nThe go keyword 'if' in 8-dot braille is: ⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'else'?\n\n### Response:\nThe go keyword 'else' in 8-dot braille is: ⠑⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'for'?\n\n### Response:\nThe go keyword 'for' in 8-dot braille is: ⠋⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'range'?\n\n### Response:\nThe go keyword 'range' in 8-dot braille is: ⠗⠁⠝⠛⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'switch'?\n\n### Response:\nThe go keyword 'switch' in 8-dot braille is: ⠎⠺⠊⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'case'?\n\n### Response:\nThe go keyword 'case' in 8-dot braille is: ⠉⠁⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'default'?\n\n### Response:\nThe go keyword 'default' in 8-dot braille is: ⠙⠑⠋⠁⠥⠇⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'return'?\n\n### Response:\nThe go keyword 'return' in 8-dot braille is: ⠗⠑⠞⠥⠗⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'defer'?\n\n### Response:\nThe go keyword 'defer' in 8-dot braille is: ⠙⠑⠋⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'go'?\n\n### Response:\nThe go keyword 'go' in 8-dot braille is: ⠛⠕",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'chan'?\n\n### Response:\nThe go keyword 'chan' in 8-dot braille is: ⠉⠓⠁⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'select'?\n\n### Response:\nThe go keyword 'select' in 8-dot braille is: ⠎⠑⠇⠑⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'make'?\n\n### Response:\nThe go builtin 'make' in 8-dot braille is: ⠍⠁⠅⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'new'?\n\n### Response:\nThe go builtin 'new' in 8-dot braille is: ⠝⠑⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'len'?\n\n### Response:\nThe go builtin 'len' in 8-dot braille is: ⠇⠑⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'cap'?\n\n### Response:\nThe go builtin 'cap' in 8-dot braille is: ⠉⠁⠏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'append'?\n\n### Response:\nThe go builtin 'append' in 8-dot braille is: ⠁⠏⠏⠑⠝⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'copy'?\n\n### Response:\nThe go builtin 'copy' in 8-dot braille is: ⠉⠕⠏⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'delete'?\n\n### Response:\nThe go builtin 'delete' in 8-dot braille is: ⠙⠑⠇⠑⠞⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'int'?\n\n### Response:\nThe go type 'int' in 8-dot braille is: ⠊⠝⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'int32'?\n\n### Response:\nThe go type 'int32' in 8-dot braille is: ⠊⠝⠞⢉⢃",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'int64'?\n\n### Response:\nThe go type 'int64' in 8-dot braille is: ⠊⠝⠞⢋⢙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'uint'?\n\n### Response:\nThe go type 'uint' in 8-dot braille is: ⠥⠊⠝⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'float32'?\n\n### Response:\nThe go type 'float32' in 8-dot braille is: ⠋⠇⠕⠁⠞⢉⢃",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'float64'?\n\n### Response:\nThe go type 'float64' in 8-dot braille is: ⠋⠇⠕⠁⠞⢋⢙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'string'?\n\n### Response:\nThe go type 'string' in 8-dot braille is: ⠎⠞⠗⠊⠝⠛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'bool'?\n\n### Response:\nThe go type 'bool' in 8-dot braille is: ⠃⠕⠕⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'byte'?\n\n### Response:\nThe go type 'byte' in 8-dot braille is: ⠃⠽⠞⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'error'?\n\n### Response:\nThe go type 'error' in 8-dot braille is: ⠑⠗⠗⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the go keyword 'nil'?\n\n### Response:\nThe go constant 'nil' in 8-dot braille is: ⠝⠊⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'function'?\n\n### Response:\nThe javascript keyword 'function' in 8-dot braille is: ⠋⠥⠝⠉⠞⠊⠕⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'const'?\n\n### Response:\nThe javascript keyword 'const' in 8-dot braille is: ⠉⠕⠝⠎⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'let'?\n\n### Response:\nThe javascript keyword 'let' in 8-dot braille is: ⠇⠑⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'var'?\n\n### Response:\nThe javascript keyword 'var' in 8-dot braille is: ⠧⠁⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'class'?\n\n### Response:\nThe javascript keyword 'class' in 8-dot braille is: ⠉⠇⠁⠎⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'extends'?\n\n### Response:\nThe javascript keyword 'extends' in 8-dot braille is: ⠑⠭⠞⠑⠝⠙⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'if'?\n\n### Response:\nThe javascript keyword 'if' in 8-dot braille is: ⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'else'?\n\n### Response:\nThe javascript keyword 'else' in 8-dot braille is: ⠑⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'for'?\n\n### Response:\nThe javascript keyword 'for' in 8-dot braille is: ⠋⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'while'?\n\n### Response:\nThe javascript keyword 'while' in 8-dot braille is: ⠺⠓⠊⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'do'?\n\n### Response:\nThe javascript keyword 'do' in 8-dot braille is: ⠙⠕",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'switch'?\n\n### Response:\nThe javascript keyword 'switch' in 8-dot braille is: ⠎⠺⠊⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'case'?\n\n### Response:\nThe javascript keyword 'case' in 8-dot braille is: ⠉⠁⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'break'?\n\n### Response:\nThe javascript keyword 'break' in 8-dot braille is: ⠃⠗⠑⠁⠅",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'continue'?\n\n### Response:\nThe javascript keyword 'continue' in 8-dot braille is: ⠉⠕⠝⠞⠊⠝⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'return'?\n\n### Response:\nThe javascript keyword 'return' in 8-dot braille is: ⠗⠑⠞⠥⠗⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'try'?\n\n### Response:\nThe javascript keyword 'try' in 8-dot braille is: ⠞⠗⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'catch'?\n\n### Response:\nThe javascript keyword 'catch' in 8-dot braille is: ⠉⠁⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'finally'?\n\n### Response:\nThe javascript keyword 'finally' in 8-dot braille is: ⠋⠊⠝⠁⠇⠇⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'throw'?\n\n### Response:\nThe javascript keyword 'throw' in 8-dot braille is: ⠞⠓⠗⠕⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'async'?\n\n### Response:\nThe javascript keyword 'async' in 8-dot braille is: ⠁⠎⠽⠝⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'await'?\n\n### Response:\nThe javascript keyword 'await' in 8-dot braille is: ⠁⠺⠁⠊⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'import'?\n\n### Response:\nThe javascript keyword 'import' in 8-dot braille is: ⠊⠍⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'export'?\n\n### Response:\nThe javascript keyword 'export' in 8-dot braille is: ⠑⠭⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'default'?\n\n### Response:\nThe javascript keyword 'default' in 8-dot braille is: ⠙⠑⠋⠁⠥⠇⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'new'?\n\n### Response:\nThe javascript keyword 'new' in 8-dot braille is: ⠝⠑⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'this'?\n\n### Response:\nThe javascript special 'this' in 8-dot braille is: ⠞⠓⠊⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'super'?\n\n### Response:\nThe javascript special 'super' in 8-dot braille is: ⠎⠥⠏⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'typeof'?\n\n### Response:\nThe javascript operator 'typeof' in 8-dot braille is: ⠞⠽⠏⠑⠕⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'instanceof'?\n\n### Response:\nThe javascript operator 'instanceof' in 8-dot braille is: ⠊⠝⠎⠞⠁⠝⠉⠑⠕⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'console'?\n\n### Response:\nThe javascript builtin 'console' in 8-dot braille is: ⠉⠕⠝⠎⠕⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Array'?\n\n### Response:\nThe javascript type 'Array' in 8-dot braille is: ⡁⠗⠗⠁⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Object'?\n\n### Response:\nThe javascript type 'Object' in 8-dot braille is: ⡕⠃⠚⠑⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'String'?\n\n### Response:\nThe javascript type 'String' in 8-dot braille is: ⡎⠞⠗⠊⠝⠛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Number'?\n\n### Response:\nThe javascript type 'Number' in 8-dot braille is: ⡝⠥⠍⠃⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Boolean'?\n\n### Response:\nThe javascript type 'Boolean' in 8-dot braille is: ⡃⠕⠕⠇⠑⠁⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Promise'?\n\n### Response:\nThe javascript type 'Promise' in 8-dot braille is: ⡏⠗⠕⠍⠊⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Map'?\n\n### Response:\nThe javascript type 'Map' in 8-dot braille is: ⡍⠁⠏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'Set'?\n\n### Response:\nThe javascript type 'Set' in 8-dot braille is: ⡎⠑⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'null'?\n\n### Response:\nThe javascript constant 'null' in 8-dot braille is: ⠝⠥⠇⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'undefined'?\n\n### Response:\nThe javascript constant 'undefined' in 8-dot braille is: ⠥⠝⠙⠑⠋⠊⠝⠑⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'true'?\n\n### Response:\nThe javascript constant 'true' in 8-dot braille is: ⠞⠗⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the javascript keyword 'false'?\n\n### Response:\nThe javascript constant 'false' in 8-dot braille is: ⠋⠁⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'function'?\n\n### Response:\nThe typescript keyword 'function' in 8-dot braille is: ⠋⠥⠝⠉⠞⠊⠕⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'const'?\n\n### Response:\nThe typescript keyword 'const' in 8-dot braille is: ⠉⠕⠝⠎⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'let'?\n\n### Response:\nThe typescript keyword 'let' in 8-dot braille is: ⠇⠑⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'var'?\n\n### Response:\nThe typescript keyword 'var' in 8-dot braille is: ⠧⠁⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'class'?\n\n### Response:\nThe typescript keyword 'class' in 8-dot braille is: ⠉⠇⠁⠎⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'extends'?\n\n### Response:\nThe typescript keyword 'extends' in 8-dot braille is: ⠑⠭⠞⠑⠝⠙⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'if'?\n\n### Response:\nThe typescript keyword 'if' in 8-dot braille is: ⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'else'?\n\n### Response:\nThe typescript keyword 'else' in 8-dot braille is: ⠑⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'for'?\n\n### Response:\nThe typescript keyword 'for' in 8-dot braille is: ⠋⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'while'?\n\n### Response:\nThe typescript keyword 'while' in 8-dot braille is: ⠺⠓⠊⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'do'?\n\n### Response:\nThe typescript keyword 'do' in 8-dot braille is: ⠙⠕",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'switch'?\n\n### Response:\nThe typescript keyword 'switch' in 8-dot braille is: ⠎⠺⠊⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'case'?\n\n### Response:\nThe typescript keyword 'case' in 8-dot braille is: ⠉⠁⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'break'?\n\n### Response:\nThe typescript keyword 'break' in 8-dot braille is: ⠃⠗⠑⠁⠅",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'continue'?\n\n### Response:\nThe typescript keyword 'continue' in 8-dot braille is: ⠉⠕⠝⠞⠊⠝⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'return'?\n\n### Response:\nThe typescript keyword 'return' in 8-dot braille is: ⠗⠑⠞⠥⠗⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'try'?\n\n### Response:\nThe typescript keyword 'try' in 8-dot braille is: ⠞⠗⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'catch'?\n\n### Response:\nThe typescript keyword 'catch' in 8-dot braille is: ⠉⠁⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'finally'?\n\n### Response:\nThe typescript keyword 'finally' in 8-dot braille is: ⠋⠊⠝⠁⠇⠇⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'throw'?\n\n### Response:\nThe typescript keyword 'throw' in 8-dot braille is: ⠞⠓⠗⠕⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'async'?\n\n### Response:\nThe typescript keyword 'async' in 8-dot braille is: ⠁⠎⠽⠝⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'await'?\n\n### Response:\nThe typescript keyword 'await' in 8-dot braille is: ⠁⠺⠁⠊⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'import'?\n\n### Response:\nThe typescript keyword 'import' in 8-dot braille is: ⠊⠍⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'export'?\n\n### Response:\nThe typescript keyword 'export' in 8-dot braille is: ⠑⠭⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'default'?\n\n### Response:\nThe typescript keyword 'default' in 8-dot braille is: ⠙⠑⠋⠁⠥⠇⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'new'?\n\n### Response:\nThe typescript keyword 'new' in 8-dot braille is: ⠝⠑⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'this'?\n\n### Response:\nThe typescript special 'this' in 8-dot braille is: ⠞⠓⠊⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'super'?\n\n### Response:\nThe typescript special 'super' in 8-dot braille is: ⠎⠥⠏⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'typeof'?\n\n### Response:\nThe typescript operator 'typeof' in 8-dot braille is: ⠞⠽⠏⠑⠕⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'instanceof'?\n\n### Response:\nThe typescript operator 'instanceof' in 8-dot braille is: ⠊⠝⠎⠞⠁⠝⠉⠑⠕⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'console'?\n\n### Response:\nThe typescript builtin 'console' in 8-dot braille is: ⠉⠕⠝⠎⠕⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Array'?\n\n### Response:\nThe typescript type 'Array' in 8-dot braille is: ⡁⠗⠗⠁⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Object'?\n\n### Response:\nThe typescript type 'Object' in 8-dot braille is: ⡕⠃⠚⠑⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'String'?\n\n### Response:\nThe typescript type 'String' in 8-dot braille is: ⡎⠞⠗⠊⠝⠛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Number'?\n\n### Response:\nThe typescript type 'Number' in 8-dot braille is: ⡝⠥⠍⠃⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Boolean'?\n\n### Response:\nThe typescript type 'Boolean' in 8-dot braille is: ⡃⠕⠕⠇⠑⠁⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Promise'?\n\n### Response:\nThe typescript type 'Promise' in 8-dot braille is: ⡏⠗⠕⠍⠊⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Map'?\n\n### Response:\nThe typescript type 'Map' in 8-dot braille is: ⡍⠁⠏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'Set'?\n\n### Response:\nThe typescript type 'Set' in 8-dot braille is: ⡎⠑⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'null'?\n\n### Response:\nThe typescript constant 'null' in 8-dot braille is: ⠝⠥⠇⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'undefined'?\n\n### Response:\nThe typescript constant 'undefined' in 8-dot braille is: ⠥⠝⠙⠑⠋⠊⠝⠑⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'true'?\n\n### Response:\nThe typescript constant 'true' in 8-dot braille is: ⠞⠗⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'false'?\n\n### Response:\nThe typescript constant 'false' in 8-dot braille is: ⠋⠁⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'interface'?\n\n### Response:\nThe typescript keyword 'interface' in 8-dot braille is: ⠊⠝⠞⠑⠗⠋⠁⠉⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'type'?\n\n### Response:\nThe typescript keyword 'type' in 8-dot braille is: ⠞⠽⠏⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'enum'?\n\n### Response:\nThe typescript keyword 'enum' in 8-dot braille is: ⠑⠝⠥⠍",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'implements'?\n\n### Response:\nThe typescript keyword 'implements' in 8-dot braille is: ⠊⠍⠏⠇⠑⠍⠑⠝⠞⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'public'?\n\n### Response:\nThe typescript keyword 'public' in 8-dot braille is: ⠏⠥⠃⠇⠊⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'private'?\n\n### Response:\nThe typescript keyword 'private' in 8-dot braille is: ⠏⠗⠊⠧⠁⠞⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'protected'?\n\n### Response:\nThe typescript keyword 'protected' in 8-dot braille is: ⠏⠗⠕⠞⠑⠉⠞⠑⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'readonly'?\n\n### Response:\nThe typescript keyword 'readonly' in 8-dot braille is: ⠗⠑⠁⠙⠕⠝⠇⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'abstract'?\n\n### Response:\nThe typescript keyword 'abstract' in 8-dot braille is: ⠁⠃⠎⠞⠗⠁⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'as'?\n\n### Response:\nThe typescript keyword 'as' in 8-dot braille is: ⠁⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'any'?\n\n### Response:\nThe typescript type 'any' in 8-dot braille is: ⠁⠝⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'unknown'?\n\n### Response:\nThe typescript type 'unknown' in 8-dot braille is: ⠥⠝⠅⠝⠕⠺⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'never'?\n\n### Response:\nThe typescript type 'never' in 8-dot braille is: ⠝⠑⠧⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the typescript keyword 'void'?\n\n### Response:\nThe typescript type 'void' in 8-dot braille is: ⠧⠕⠊⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'public'?\n\n### Response:\nThe java keyword 'public' in 8-dot braille is: ⠏⠥⠃⠇⠊⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'private'?\n\n### Response:\nThe java keyword 'private' in 8-dot braille is: ⠏⠗⠊⠧⠁⠞⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'protected'?\n\n### Response:\nThe java keyword 'protected' in 8-dot braille is: ⠏⠗⠕⠞⠑⠉⠞⠑⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'class'?\n\n### Response:\nThe java keyword 'class' in 8-dot braille is: ⠉⠇⠁⠎⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'interface'?\n\n### Response:\nThe java keyword 'interface' in 8-dot braille is: ⠊⠝⠞⠑⠗⠋⠁⠉⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'extends'?\n\n### Response:\nThe java keyword 'extends' in 8-dot braille is: ⠑⠭⠞⠑⠝⠙⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'implements'?\n\n### Response:\nThe java keyword 'implements' in 8-dot braille is: ⠊⠍⠏⠇⠑⠍⠑⠝⠞⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'abstract'?\n\n### Response:\nThe java keyword 'abstract' in 8-dot braille is: ⠁⠃⠎⠞⠗⠁⠉⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'final'?\n\n### Response:\nThe java keyword 'final' in 8-dot braille is: ⠋⠊⠝⠁⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'static'?\n\n### Response:\nThe java keyword 'static' in 8-dot braille is: ⠎⠞⠁⠞⠊⠉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'void'?\n\n### Response:\nThe java keyword 'void' in 8-dot braille is: ⠧⠕⠊⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'return'?\n\n### Response:\nThe java keyword 'return' in 8-dot braille is: ⠗⠑⠞⠥⠗⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'if'?\n\n### Response:\nThe java keyword 'if' in 8-dot braille is: ⠊⠋",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'else'?\n\n### Response:\nThe java keyword 'else' in 8-dot braille is: ⠑⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'for'?\n\n### Response:\nThe java keyword 'for' in 8-dot braille is: ⠋⠕⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'while'?\n\n### Response:\nThe java keyword 'while' in 8-dot braille is: ⠺⠓⠊⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'do'?\n\n### Response:\nThe java keyword 'do' in 8-dot braille is: ⠙⠕",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'switch'?\n\n### Response:\nThe java keyword 'switch' in 8-dot braille is: ⠎⠺⠊⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'case'?\n\n### Response:\nThe java keyword 'case' in 8-dot braille is: ⠉⠁⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'break'?\n\n### Response:\nThe java keyword 'break' in 8-dot braille is: ⠃⠗⠑⠁⠅",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'continue'?\n\n### Response:\nThe java keyword 'continue' in 8-dot braille is: ⠉⠕⠝⠞⠊⠝⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'try'?\n\n### Response:\nThe java keyword 'try' in 8-dot braille is: ⠞⠗⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'catch'?\n\n### Response:\nThe java keyword 'catch' in 8-dot braille is: ⠉⠁⠞⠉⠓",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'finally'?\n\n### Response:\nThe java keyword 'finally' in 8-dot braille is: ⠋⠊⠝⠁⠇⠇⠽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'throw'?\n\n### Response:\nThe java keyword 'throw' in 8-dot braille is: ⠞⠓⠗⠕⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'throws'?\n\n### Response:\nThe java keyword 'throws' in 8-dot braille is: ⠞⠓⠗⠕⠺⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'new'?\n\n### Response:\nThe java keyword 'new' in 8-dot braille is: ⠝⠑⠺",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'this'?\n\n### Response:\nThe java special 'this' in 8-dot braille is: ⠞⠓⠊⠎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'super'?\n\n### Response:\nThe java special 'super' in 8-dot braille is: ⠎⠥⠏⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'import'?\n\n### Response:\nThe java keyword 'import' in 8-dot braille is: ⠊⠍⠏⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'package'?\n\n### Response:\nThe java keyword 'package' in 8-dot braille is: ⠏⠁⠉⠅⠁⠛⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'synchronized'?\n\n### Response:\nThe java keyword 'synchronized' in 8-dot braille is: ⠎⠽⠝⠉⠓⠗⠕⠝⠊⠵⠑⠙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'int'?\n\n### Response:\nThe java type 'int' in 8-dot braille is: ⠊⠝⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'long'?\n\n### Response:\nThe java type 'long' in 8-dot braille is: ⠇⠕⠝⠛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'float'?\n\n### Response:\nThe java type 'float' in 8-dot braille is: ⠋⠇⠕⠁⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'double'?\n\n### Response:\nThe java type 'double' in 8-dot braille is: ⠙⠕⠥⠃⠇⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'boolean'?\n\n### Response:\nThe java type 'boolean' in 8-dot braille is: ⠃⠕⠕⠇⠑⠁⠝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'char'?\n\n### Response:\nThe java type 'char' in 8-dot braille is: ⠉⠓⠁⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'byte'?\n\n### Response:\nThe java type 'byte' in 8-dot braille is: ⠃⠽⠞⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'short'?\n\n### Response:\nThe java type 'short' in 8-dot braille is: ⠎⠓⠕⠗⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'String'?\n\n### Response:\nThe java type 'String' in 8-dot braille is: ⡎⠞⠗⠊⠝⠛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'Integer'?\n\n### Response:\nThe java type 'Integer' in 8-dot braille is: ⡊⠝⠞⠑⠛⠑⠗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'List'?\n\n### Response:\nThe java type 'List' in 8-dot braille is: ⡇⠊⠎⠞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'Map'?\n\n### Response:\nThe java type 'Map' in 8-dot braille is: ⡍⠁⠏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'null'?\n\n### Response:\nThe java constant 'null' in 8-dot braille is: ⠝⠥⠇⠇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'true'?\n\n### Response:\nThe java constant 'true' in 8-dot braille is: ⠞⠗⠥⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the java keyword 'false'?\n\n### Response:\nThe java constant 'false' in 8-dot braille is: ⠋⠁⠇⠎⠑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'SELECT'?\n\n### Response:\nThe sql keyword 'SELECT' in 8-dot braille is: ⡎⡑⡇⡑⡉⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'FROM'?\n\n### Response:\nThe sql keyword 'FROM' in 8-dot braille is: ⡋⡗⡕⡍",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'WHERE'?\n\n### Response:\nThe sql keyword 'WHERE' in 8-dot braille is: ⡺⡓⡑⡗⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'AND'?\n\n### Response:\nThe sql keyword 'AND' in 8-dot braille is: ⡁⡝⡙",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'OR'?\n\n### Response:\nThe sql keyword 'OR' in 8-dot braille is: ⡕⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'NOT'?\n\n### Response:\nThe sql keyword 'NOT' in 8-dot braille is: ⡝⡕⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'IN'?\n\n### Response:\nThe sql keyword 'IN' in 8-dot braille is: ⡊⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'LIKE'?\n\n### Response:\nThe sql keyword 'LIKE' in 8-dot braille is: ⡇⡊⡅⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'BETWEEN'?\n\n### Response:\nThe sql keyword 'BETWEEN' in 8-dot braille is: ⡃⡑⡞⡺⡑⡑⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'JOIN'?\n\n### Response:\nThe sql keyword 'JOIN' in 8-dot braille is: ⡚⡕⡊⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'LEFT'?\n\n### Response:\nThe sql keyword 'LEFT' in 8-dot braille is: ⡇⡑⡋⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'RIGHT'?\n\n### Response:\nThe sql keyword 'RIGHT' in 8-dot braille is: ⡗⡊⡛⡓⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'INNER'?\n\n### Response:\nThe sql keyword 'INNER' in 8-dot braille is: ⡊⡝⡝⡑⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'OUTER'?\n\n### Response:\nThe sql keyword 'OUTER' in 8-dot braille is: ⡕⡥⡞⡑⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'ON'?\n\n### Response:\nThe sql keyword 'ON' in 8-dot braille is: ⡕⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'GROUP'?\n\n### Response:\nThe sql keyword 'GROUP' in 8-dot braille is: ⡛⡗⡕⡥⡏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'BY'?\n\n### Response:\nThe sql keyword 'BY' in 8-dot braille is: ⡃⡽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'ORDER'?\n\n### Response:\nThe sql keyword 'ORDER' in 8-dot braille is: ⡕⡗⡙⡑⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'ASC'?\n\n### Response:\nThe sql keyword 'ASC' in 8-dot braille is: ⡁⡎⡉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'DESC'?\n\n### Response:\nThe sql keyword 'DESC' in 8-dot braille is: ⡙⡑⡎⡉",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'HAVING'?\n\n### Response:\nThe sql keyword 'HAVING' in 8-dot braille is: ⡓⡁⡧⡊⡝⡛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'LIMIT'?\n\n### Response:\nThe sql keyword 'LIMIT' in 8-dot braille is: ⡇⡊⡍⡊⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'OFFSET'?\n\n### Response:\nThe sql keyword 'OFFSET' in 8-dot braille is: ⡕⡋⡋⡎⡑⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'INSERT'?\n\n### Response:\nThe sql keyword 'INSERT' in 8-dot braille is: ⡊⡝⡎⡑⡗⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'INTO'?\n\n### Response:\nThe sql keyword 'INTO' in 8-dot braille is: ⡊⡝⡞⡕",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'VALUES'?\n\n### Response:\nThe sql keyword 'VALUES' in 8-dot braille is: ⡧⡁⡇⡥⡑⡎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'UPDATE'?\n\n### Response:\nThe sql keyword 'UPDATE' in 8-dot braille is: ⡥⡏⡙⡁⡞⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'SET'?\n\n### Response:\nThe sql keyword 'SET' in 8-dot braille is: ⡎⡑⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'DELETE'?\n\n### Response:\nThe sql keyword 'DELETE' in 8-dot braille is: ⡙⡑⡇⡑⡞⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'CREATE'?\n\n### Response:\nThe sql keyword 'CREATE' in 8-dot braille is: ⡉⡗⡑⡁⡞⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'TABLE'?\n\n### Response:\nThe sql keyword 'TABLE' in 8-dot braille is: ⡞⡁⡃⡇⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'DROP'?\n\n### Response:\nThe sql keyword 'DROP' in 8-dot braille is: ⡙⡗⡕⡏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'ALTER'?\n\n### Response:\nThe sql keyword 'ALTER' in 8-dot braille is: ⡁⡇⡞⡑⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'INDEX'?\n\n### Response:\nThe sql keyword 'INDEX' in 8-dot braille is: ⡊⡝⡙⡑⡭",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'PRIMARY'?\n\n### Response:\nThe sql keyword 'PRIMARY' in 8-dot braille is: ⡏⡗⡊⡍⡁⡗⡽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'KEY'?\n\n### Response:\nThe sql keyword 'KEY' in 8-dot braille is: ⡅⡑⡽",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'FOREIGN'?\n\n### Response:\nThe sql keyword 'FOREIGN' in 8-dot braille is: ⡋⡕⡗⡑⡊⡛⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'REFERENCES'?\n\n### Response:\nThe sql keyword 'REFERENCES' in 8-dot braille is: ⡗⡑⡋⡑⡗⡑⡝⡉⡑⡎",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'NULL'?\n\n### Response:\nThe sql constant 'NULL' in 8-dot braille is: ⡝⡥⡇⡇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'DEFAULT'?\n\n### Response:\nThe sql keyword 'DEFAULT' in 8-dot braille is: ⡙⡑⡋⡁⡥⡇⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'UNIQUE'?\n\n### Response:\nThe sql keyword 'UNIQUE' in 8-dot braille is: ⡥⡝⡊⡟⡥⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'CHECK'?\n\n### Response:\nThe sql keyword 'CHECK' in 8-dot braille is: ⡉⡓⡑⡉⡅",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'INT'?\n\n### Response:\nThe sql type 'INT' in 8-dot braille is: ⡊⡝⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'INTEGER'?\n\n### Response:\nThe sql type 'INTEGER' in 8-dot braille is: ⡊⡝⡞⡑⡛⡑⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'VARCHAR'?\n\n### Response:\nThe sql type 'VARCHAR' in 8-dot braille is: ⡧⡁⡗⡉⡓⡁⡗",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'TEXT'?\n\n### Response:\nThe sql type 'TEXT' in 8-dot braille is: ⡞⡑⡭⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'BOOLEAN'?\n\n### Response:\nThe sql type 'BOOLEAN' in 8-dot braille is: ⡃⡕⡕⡇⡑⡁⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'DATE'?\n\n### Response:\nThe sql type 'DATE' in 8-dot braille is: ⡙⡁⡞⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'TIMESTAMP'?\n\n### Response:\nThe sql type 'TIMESTAMP' in 8-dot braille is: ⡞⡊⡍⡑⡎⡞⡁⡍⡏",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'FLOAT'?\n\n### Response:\nThe sql type 'FLOAT' in 8-dot braille is: ⡋⡇⡕⡁⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'DECIMAL'?\n\n### Response:\nThe sql type 'DECIMAL' in 8-dot braille is: ⡙⡑⡉⡊⡍⡁⡇",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'COUNT'?\n\n### Response:\nThe sql function 'COUNT' in 8-dot braille is: ⡉⡕⡥⡝⡞",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'SUM'?\n\n### Response:\nThe sql function 'SUM' in 8-dot braille is: ⡎⡥⡍",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'AVG'?\n\n### Response:\nThe sql function 'AVG' in 8-dot braille is: ⡁⡧⡛",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'MAX'?\n\n### Response:\nThe sql function 'MAX' in 8-dot braille is: ⡍⡁⡭",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'MIN'?\n\n### Response:\nThe sql function 'MIN' in 8-dot braille is: ⡍⡊⡝",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the sql keyword 'COALESCE'?\n\n### Response:\nThe sql function 'COALESCE' in 8-dot braille is: ⡉⡕⡁⡇⡑⡎⡉⡑",
+    "category": "braille_keyword"
+  },
+  {
+    "text": "### Instruction:\nConvert this python code to 8-dot braille:\n\n### Input:\ndef hello():\n    print(\"Hello\")\n\n### Response:\n⠙⠑⠋⠀⠓⠑⠇⠇⠕⠐⠣⠐⠜⠒⠀⠀⠀⠀⠀⠏⠗⠊⠝⠞⠐⠣⠐⠂⡓⠑⠇⠇⠕⠐⠂⠐⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following python code in 8-dot braille:\n\n### Input:\ndef hello():\n\n### Response:\n⠙⠑⠋⠀⠓⠑⠇⠇⠕⠐⠣⠐⠜⠒",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this python code to 8-dot braille:\n\n### Input:\nfor i in range(10):\n    pass\n\n### Response:\n⠋⠕⠗⠀⠊⠀⠊⠝⠀⠗⠁⠝⠛⠑⠐⠣⢁⢚⠐⠜⠒⠀⠀⠀⠀⠀⠏⠁⠎⠎",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following python code in 8-dot braille:\n\n### Input:\nfor i in range(10):\n\n### Response:\n⠋⠕⠗⠀⠊⠀⠊⠝⠀⠗⠁⠝⠛⠑⠐⠣⢁⢚⠐⠜⠒",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this python code to 8-dot braille:\n\n### Input:\nclass MyClass:\n    def __init__(self):\n        self.x = 0\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡍⠽⡉⠇⠁⠎⠎⠒⠀⠀⠀⠀⠀⠙⠑⠋⠀⠨⠤⠨⠤⠊⠝⠊⠞⠨⠤⠨⠤⠐⠣⠎⠑⠇⠋⠐⠜⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⠑⠇⠋⠲⠭⠀⠐⠶⠀⢚",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following python code in 8-dot braille:\n\n### Input:\nclass MyClass:\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡍⠽⡉⠇⠁⠎⠎⠒",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this python code to 8-dot braille:\n\n### Input:\nasync def fetch():\n    await get_data()\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠙⠑⠋⠀⠋⠑⠞⠉⠓⠐⠣⠐⠜⠒⠀⠀⠀⠀⠀⠁⠺⠁⠊⠞⠀⠛⠑⠞⠨⠤⠙⠁⠞⠁⠐⠣⠐⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following python code in 8-dot braille:\n\n### Input:\nasync def fetch():\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠙⠑⠋⠀⠋⠑⠞⠉⠓⠐⠣⠐⠜⠒",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this python code to 8-dot braille:\n\n### Input:\nif x > 0:\n    return True\nelse:\n    return False\n\n### Response:\n⠊⠋⠀⠭⠀⠐⠕⠀⢚⠒⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⡞⠗⠥⠑⠀⠑⠇⠎⠑⠒⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⡋⠁⠇⠎⠑",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following python code in 8-dot braille:\n\n### Input:\nif x > 0:\n\n### Response:\n⠊⠋⠀⠭⠀⠐⠕⠀⢚⠒",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this rust code to 8-dot braille:\n\n### Input:\nfn main() {\n    println!(\"Hello\");\n}\n\n### Response:\n⠋⠝⠀⠍⠁⠊⠝⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠏⠗⠊⠝⠞⠇⠝⠖⠐⠣⠐⠂⡓⠑⠇⠇⠕⠐⠂⠐⠜⠆⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following rust code in 8-dot braille:\n\n### Input:\nfn main() {\n\n### Response:\n⠋⠝⠀⠍⠁⠊⠝⠐⠣⠐⠜⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this rust code to 8-dot braille:\n\n### Input:\nlet mut x: i32 = 0;\n\n### Response:\n⠇⠑⠞⠀⠍⠥⠞⠀⠭⠒⠀⠊⢉⢃⠀⠐⠶⠀⢚⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following rust code in 8-dot braille:\n\n### Input:\nlet mut x: i32 = 0;\n\n### Response:\n⠇⠑⠞⠀⠍⠥⠞⠀⠭⠒⠀⠊⢉⢃⠀⠐⠶⠀⢚⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this rust code to 8-dot braille:\n\n### Input:\nstruct Point {\n    x: f64,\n    y: f64,\n}\n\n### Response:\n⠎⠞⠗⠥⠉⠞⠀⡏⠕⠊⠝⠞⠀⠸⠣⠀⠀⠀⠀⠀⠭⠒⠀⠋⢋⢙⠂⠀⠀⠀⠀⠀⠽⠒⠀⠋⢋⢙⠂⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following rust code in 8-dot braille:\n\n### Input:\nstruct Point {\n\n### Response:\n⠎⠞⠗⠥⠉⠞⠀⡏⠕⠊⠝⠞⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this rust code to 8-dot braille:\n\n### Input:\nimpl Trait for Type {\n    fn method(&self) {}\n}\n\n### Response:\n⠊⠍⠏⠇⠀⡞⠗⠁⠊⠞⠀⠋⠕⠗⠀⡞⠽⠏⠑⠀⠸⠣⠀⠀⠀⠀⠀⠋⠝⠀⠍⠑⠞⠓⠕⠙⠐⠣⠈⠯⠎⠑⠇⠋⠐⠜⠀⠸⠣⠸⠜⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following rust code in 8-dot braille:\n\n### Input:\nimpl Trait for Type {\n\n### Response:\n⠊⠍⠏⠇⠀⡞⠗⠁⠊⠞⠀⠋⠕⠗⠀⡞⠽⠏⠑⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this rust code to 8-dot braille:\n\n### Input:\nmatch result {\n    Ok(v) => v,\n    Err(e) => panic!(),\n}\n\n### Response:\n⠍⠁⠞⠉⠓⠀⠗⠑⠎⠥⠇⠞⠀⠸⠣⠀⠀⠀⠀⠀⡕⠅⠐⠣⠧⠐⠜⠀⠐⠶⠐⠕⠀⠧⠂⠀⠀⠀⠀⠀⡑⠗⠗⠐⠣⠑⠐⠜⠀⠐⠶⠐⠕⠀⠏⠁⠝⠊⠉⠖⠐⠣⠐⠜⠂⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following rust code in 8-dot braille:\n\n### Input:\nmatch result {\n\n### Response:\n⠍⠁⠞⠉⠓⠀⠗⠑⠎⠥⠇⠞⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this go code to 8-dot braille:\n\n### Input:\nfunc main() {\n    fmt.Println(\"Hello\")\n}\n\n### Response:\n⠋⠥⠝⠉⠀⠍⠁⠊⠝⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠋⠍⠞⠲⡏⠗⠊⠝⠞⠇⠝⠐⠣⠐⠂⡓⠑⠇⠇⠕⠐⠂⠐⠜⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following go code in 8-dot braille:\n\n### Input:\nfunc main() {\n\n### Response:\n⠋⠥⠝⠉⠀⠍⠁⠊⠝⠐⠣⠐⠜⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this go code to 8-dot braille:\n\n### Input:\nvar x int = 0\n\n### Response:\n⠧⠁⠗⠀⠭⠀⠊⠝⠞⠀⠐⠶⠀⢚",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following go code in 8-dot braille:\n\n### Input:\nvar x int = 0\n\n### Response:\n⠧⠁⠗⠀⠭⠀⠊⠝⠞⠀⠐⠶⠀⢚",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this go code to 8-dot braille:\n\n### Input:\ntype Person struct {\n    Name string\n    Age  int\n}\n\n### Response:\n⠞⠽⠏⠑⠀⡏⠑⠗⠎⠕⠝⠀⠎⠞⠗⠥⠉⠞⠀⠸⠣⠀⠀⠀⠀⠀⡝⠁⠍⠑⠀⠎⠞⠗⠊⠝⠛⠀⠀⠀⠀⠀⡁⠛⠑⠀⠀⠊⠝⠞⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following go code in 8-dot braille:\n\n### Input:\ntype Person struct {\n\n### Response:\n⠞⠽⠏⠑⠀⡏⠑⠗⠎⠕⠝⠀⠎⠞⠗⠥⠉⠞⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this go code to 8-dot braille:\n\n### Input:\nfor i := 0; i < 10; i++ {\n    continue\n}\n\n### Response:\n⠋⠕⠗⠀⠊⠀⠒⠐⠶⠀⢚⠆⠀⠊⠀⠐⠪⠀⢁⢚⠆⠀⠊⠐⠖⠐⠖⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠞⠊⠝⠥⠑⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following go code in 8-dot braille:\n\n### Input:\nfor i := 0; i < 10; i++ {\n\n### Response:\n⠋⠕⠗⠀⠊⠀⠒⠐⠶⠀⢚⠆⠀⠊⠀⠐⠪⠀⢁⢚⠆⠀⠊⠐⠖⠐⠖⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this go code to 8-dot braille:\n\n### Input:\ngo func() {\n    ch <- data\n}()\n\n### Response:\n⠛⠕⠀⠋⠥⠝⠉⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠓⠀⠐⠪⠤⠀⠙⠁⠞⠁⠀⠸⠜⠐⠣⠐⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following go code in 8-dot braille:\n\n### Input:\ngo func() {\n\n### Response:\n⠛⠕⠀⠋⠥⠝⠉⠐⠣⠐⠜⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this javascript code to 8-dot braille:\n\n### Input:\nconst hello = () => {\n    console.log(\"Hello\");\n};\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠓⠑⠇⠇⠕⠀⠐⠶⠀⠐⠣⠐⠜⠀⠐⠶⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠕⠇⠑⠲⠇⠕⠛⠐⠣⠐⠂⡓⠑⠇⠇⠕⠐⠂⠐⠜⠆⠀⠸⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following javascript code in 8-dot braille:\n\n### Input:\nconst hello = () => {\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠓⠑⠇⠇⠕⠀⠐⠶⠀⠐⠣⠐⠜⠀⠐⠶⠐⠕⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this javascript code to 8-dot braille:\n\n### Input:\nasync function fetch() {\n    await getData();\n}\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠋⠑⠞⠉⠓⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠁⠺⠁⠊⠞⠀⠛⠑⠞⡙⠁⠞⠁⠐⠣⠐⠜⠆⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following javascript code in 8-dot braille:\n\n### Input:\nasync function fetch() {\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠋⠑⠞⠉⠓⠐⠣⠐⠜⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this javascript code to 8-dot braille:\n\n### Input:\nclass MyClass {\n    constructor() {\n        this.x = 0;\n    }\n}\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡍⠽⡉⠇⠁⠎⠎⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠞⠗⠥⠉⠞⠕⠗⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠓⠊⠎⠲⠭⠀⠐⠶⠀⢚⠆⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following javascript code in 8-dot braille:\n\n### Input:\nclass MyClass {\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡍⠽⡉⠇⠁⠎⠎⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this javascript code to 8-dot braille:\n\n### Input:\nconst arr = [1, 2, 3].map(x => x * 2);\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠁⠗⠗⠀⠐⠶⠀⠨⠣⢁⠂⠀⢃⠂⠀⢉⠨⠜⠲⠍⠁⠏⠐⠣⠭⠀⠐⠶⠐⠕⠀⠭⠀⠐⠔⠀⢃⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following javascript code in 8-dot braille:\n\n### Input:\nconst arr = [1, 2, 3].map(x => x * 2);\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠁⠗⠗⠀⠐⠶⠀⠨⠣⢁⠂⠀⢃⠂⠀⢉⠨⠜⠲⠍⠁⠏⠐⠣⠭⠀⠐⠶⠐⠕⠀⠭⠀⠐⠔⠀⢃⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this javascript code to 8-dot braille:\n\n### Input:\ntry {\n    throw new Error();\n} catch (e) {\n    console.error(e);\n}\n\n### Response:\n⠞⠗⠽⠀⠸⠣⠀⠀⠀⠀⠀⠞⠓⠗⠕⠺⠀⠝⠑⠺⠀⡑⠗⠗⠕⠗⠐⠣⠐⠜⠆⠀⠸⠜⠀⠉⠁⠞⠉⠓⠀⠐⠣⠑⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠕⠇⠑⠲⠑⠗⠗⠕⠗⠐⠣⠑⠐⠜⠆⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following javascript code in 8-dot braille:\n\n### Input:\ntry {\n\n### Response:\n⠞⠗⠽⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this sql code to 8-dot braille:\n\n### Input:\nSELECT * FROM users WHERE active = true;\n\n### Response:\n⡎⡑⡇⡑⡉⡞⠀⠐⠔⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⡺⡓⡑⡗⡑⠀⠁⠉⠞⠊⠧⠑⠀⠐⠶⠀⠞⠗⠥⠑⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following sql code in 8-dot braille:\n\n### Input:\nSELECT * FROM users WHERE active = true;\n\n### Response:\n⡎⡑⡇⡑⡉⡞⠀⠐⠔⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⡺⡓⡑⡗⡑⠀⠁⠉⠞⠊⠧⠑⠀⠐⠶⠀⠞⠗⠥⠑⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this sql code to 8-dot braille:\n\n### Input:\nINSERT INTO users (name, email) VALUES (\"John\", \"john@example.com\");\n\n### Response:\n⡊⡝⡎⡑⡗⡞⠀⡊⡝⡞⡕⠀⠥⠎⠑⠗⠎⠀⠐⠣⠝⠁⠍⠑⠂⠀⠑⠍⠁⠊⠇⠐⠜⠀⡧⡁⡇⡥⡑⡎⠀⠐⠣⠐⠂⡚⠕⠓⠝⠐⠂⠂⠀⠐⠂⠚⠕⠓⠝⠈⠁⠑⠭⠁⠍⠏⠇⠑⠲⠉⠕⠍⠐⠂⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following sql code in 8-dot braille:\n\n### Input:\nINSERT INTO users (name, email) VALUES (\"John\", \"john@example.com\");\n\n### Response:\n⡊⡝⡎⡑⡗⡞⠀⡊⡝⡞⡕⠀⠥⠎⠑⠗⠎⠀⠐⠣⠝⠁⠍⠑⠂⠀⠑⠍⠁⠊⠇⠐⠜⠀⡧⡁⡇⡥⡑⡎⠀⠐⠣⠐⠂⡚⠕⠓⠝⠐⠂⠂⠀⠐⠂⠚⠕⠓⠝⠈⠁⠑⠭⠁⠍⠏⠇⠑⠲⠉⠕⠍⠐⠂⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this sql code to 8-dot braille:\n\n### Input:\nUPDATE users SET active = false WHERE id = 1;\n\n### Response:\n⡥⡏⡙⡁⡞⡑⠀⠥⠎⠑⠗⠎⠀⡎⡑⡞⠀⠁⠉⠞⠊⠧⠑⠀⠐⠶⠀⠋⠁⠇⠎⠑⠀⡺⡓⡑⡗⡑⠀⠊⠙⠀⠐⠶⠀⢁⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following sql code in 8-dot braille:\n\n### Input:\nUPDATE users SET active = false WHERE id = 1;\n\n### Response:\n⡥⡏⡙⡁⡞⡑⠀⠥⠎⠑⠗⠎⠀⡎⡑⡞⠀⠁⠉⠞⠊⠧⠑⠀⠐⠶⠀⠋⠁⠇⠎⠑⠀⡺⡓⡑⡗⡑⠀⠊⠙⠀⠐⠶⠀⢁⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this sql code to 8-dot braille:\n\n### Input:\nSELECT u.name, COUNT(o.id) FROM users u LEFT JOIN orders o ON u.id = o.user_id GROUP BY u.id;\n\n### Response:\n⡎⡑⡇⡑⡉⡞⠀⠥⠲⠝⠁⠍⠑⠂⠀⡉⡕⡥⡝⡞⠐⠣⠕⠲⠊⠙⠐⠜⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⠥⠀⡇⡑⡋⡞⠀⡚⡕⡊⡝⠀⠕⠗⠙⠑⠗⠎⠀⠕⠀⡕⡝⠀⠥⠲⠊⠙⠀⠐⠶⠀⠕⠲⠥⠎⠑⠗⠨⠤⠊⠙⠀⡛⡗⡕⡥⡏⠀⡃⡽⠀⠥⠲⠊⠙⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following sql code in 8-dot braille:\n\n### Input:\nSELECT u.name, COUNT(o.id) FROM users u LEFT JOIN orders o ON u.id = o.user_id GROUP BY u.id;\n\n### Response:\n⡎⡑⡇⡑⡉⡞⠀⠥⠲⠝⠁⠍⠑⠂⠀⡉⡕⡥⡝⡞⠐⠣⠕⠲⠊⠙⠐⠜⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⠥⠀⡇⡑⡋⡞⠀⡚⡕⡊⡝⠀⠕⠗⠙⠑⠗⠎⠀⠕⠀⡕⡝⠀⠥⠲⠊⠙⠀⠐⠶⠀⠕⠲⠥⠎⠑⠗⠨⠤⠊⠙⠀⡛⡗⡕⡥⡏⠀⡃⡽⠀⠥⠲⠊⠙⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this sql code to 8-dot braille:\n\n### Input:\nCREATE TABLE products (\n    id INT PRIMARY KEY,\n    name VARCHAR(255),\n    price DECIMAL(10, 2)\n);\n\n### Response:\n⡉⡗⡑⡁⡞⡑⠀⡞⡁⡃⡇⡑⠀⠏⠗⠕⠙⠥⠉⠞⠎⠀⠐⠣⠀⠀⠀⠀⠀⠊⠙⠀⡊⡝⡞⠀⡏⡗⡊⡍⡁⡗⡽⠀⡅⡑⡽⠂⠀⠀⠀⠀⠀⠝⠁⠍⠑⠀⡧⡁⡗⡉⡓⡁⡗⠐⠣⢃⢑⢑⠐⠜⠂⠀⠀⠀⠀⠀⠏⠗⠊⠉⠑⠀⡙⡑⡉⡊⡍⡁⡇⠐⠣⢁⢚⠂⠀⢃⠐⠜⠀⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following sql code in 8-dot braille:\n\n### Input:\nCREATE TABLE products (\n\n### Response:\n⡉⡗⡑⡁⡞⡑⠀⡞⡁⡃⡇⡑⠀⠏⠗⠕⠙⠥⠉⠞⠎⠀⠐⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this java code to 8-dot braille:\n\n### Input:\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello\");\n    }\n}\n\n### Response:\n⠏⠥⠃⠇⠊⠉⠀⠉⠇⠁⠎⠎⠀⡍⠁⠊⠝⠀⠸⠣⠀⠀⠀⠀⠀⠏⠥⠃⠇⠊⠉⠀⠎⠞⠁⠞⠊⠉⠀⠧⠕⠊⠙⠀⠍⠁⠊⠝⠐⠣⡎⠞⠗⠊⠝⠛⠨⠣⠨⠜⠀⠁⠗⠛⠎⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠽⠎⠞⠑⠍⠲⠕⠥⠞⠲⠏⠗⠊⠝⠞⠇⠝⠐⠣⠐⠂⡓⠑⠇⠇⠕⠐⠂⠐⠜⠆⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following java code in 8-dot braille:\n\n### Input:\npublic class Main {\n\n### Response:\n⠏⠥⠃⠇⠊⠉⠀⠉⠇⠁⠎⠎⠀⡍⠁⠊⠝⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this java code to 8-dot braille:\n\n### Input:\npublic interface Runnable {\n    void run();\n}\n\n### Response:\n⠏⠥⠃⠇⠊⠉⠀⠊⠝⠞⠑⠗⠋⠁⠉⠑⠀⡗⠥⠝⠝⠁⠃⠇⠑⠀⠸⠣⠀⠀⠀⠀⠀⠧⠕⠊⠙⠀⠗⠥⠝⠐⠣⠐⠜⠆⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following java code in 8-dot braille:\n\n### Input:\npublic interface Runnable {\n\n### Response:\n⠏⠥⠃⠇⠊⠉⠀⠊⠝⠞⠑⠗⠋⠁⠉⠑⠀⡗⠥⠝⠝⠁⠃⠇⠑⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this java code to 8-dot braille:\n\n### Input:\nfor (int i = 0; i < 10; i++) {\n    continue;\n}\n\n### Response:\n⠋⠕⠗⠀⠐⠣⠊⠝⠞⠀⠊⠀⠐⠶⠀⢚⠆⠀⠊⠀⠐⠪⠀⢁⢚⠆⠀⠊⠐⠖⠐⠖⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠞⠊⠝⠥⠑⠆⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following java code in 8-dot braille:\n\n### Input:\nfor (int i = 0; i < 10; i++) {\n\n### Response:\n⠋⠕⠗⠀⠐⠣⠊⠝⠞⠀⠊⠀⠐⠶⠀⢚⠆⠀⠊⠀⠐⠪⠀⢁⢚⠆⠀⠊⠐⠖⠐⠖⠐⠜⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this java code to 8-dot braille:\n\n### Input:\ntry {\n    throw new Exception();\n} catch (Exception e) {\n    e.printStackTrace();\n}\n\n### Response:\n⠞⠗⠽⠀⠸⠣⠀⠀⠀⠀⠀⠞⠓⠗⠕⠺⠀⠝⠑⠺⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠐⠣⠐⠜⠆⠀⠸⠜⠀⠉⠁⠞⠉⠓⠀⠐⠣⡑⠭⠉⠑⠏⠞⠊⠕⠝⠀⠑⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠑⠲⠏⠗⠊⠝⠞⡎⠞⠁⠉⠅⡞⠗⠁⠉⠑⠐⠣⠐⠜⠆⠀⠸⠜",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following java code in 8-dot braille:\n\n### Input:\ntry {\n\n### Response:\n⠞⠗⠽⠀⠸⠣",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nConvert this java code to 8-dot braille:\n\n### Input:\nList<String> list = new ArrayList<>();\n\n### Response:\n⡇⠊⠎⠞⠐⠪⡎⠞⠗⠊⠝⠛⠐⠕⠀⠇⠊⠎⠞⠀⠐⠶⠀⠝⠑⠺⠀⡁⠗⠗⠁⠽⡇⠊⠎⠞⠐⠪⠐⠕⠐⠣⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWrite the following java code in 8-dot braille:\n\n### Input:\nList<String> list = new ArrayList<>();\n\n### Response:\n⡇⠊⠎⠞⠐⠪⡎⠞⠗⠊⠝⠛⠐⠕⠀⠇⠊⠎⠞⠀⠐⠶⠀⠝⠑⠺⠀⡁⠗⠗⠁⠽⡇⠊⠎⠞⠐⠪⠐⠕⠐⠣⠐⠜⠆",
+    "category": "code_to_braille"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'plus/addition' operator '+'?\n\n### Response:\nThe plus/addition operator '+' in 8-dot braille is: ⠐⠖",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'minus/subtraction' operator '-'?\n\n### Response:\nThe minus/subtraction operator '-' in 8-dot braille is: ⠤",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'multiply' operator '*'?\n\n### Response:\nThe multiply operator '*' in 8-dot braille is: ⠐⠔",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'divide' operator '/'?\n\n### Response:\nThe divide operator '/' in 8-dot braille is: ⠸⠌",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'equals/assignment' operator '='?\n\n### Response:\nThe equals/assignment operator '=' in 8-dot braille is: ⠐⠶",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'equality' operator '=='?\n\n### Response:\nThe equality operator '==' in 8-dot braille is: ⠐⠶⠐⠶",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'not equal' operator '!='?\n\n### Response:\nThe not equal operator '!=' in 8-dot braille is: ⠖⠐⠶",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'greater than' operator '>'?\n\n### Response:\nThe greater than operator '>' in 8-dot braille is: ⠐⠕",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'less than' operator '<'?\n\n### Response:\nThe less than operator '<' in 8-dot braille is: ⠐⠪",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'greater or equal' operator '>='?\n\n### Response:\nThe greater or equal operator '>=' in 8-dot braille is: ⠐⠕⠐⠶",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'less or equal' operator '<='?\n\n### Response:\nThe less or equal operator '<=' in 8-dot braille is: ⠐⠪⠐⠶",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'logical and' operator '&&'?\n\n### Response:\nThe logical and operator '&&' in 8-dot braille is: ⠈⠯⠈⠯",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'logical or' operator '||'?\n\n### Response:\nThe logical or operator '||' in 8-dot braille is: ⠸⠳⠸⠳",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'logical not' operator '!'?\n\n### Response:\nThe logical not operator '!' in 8-dot braille is: ⠖",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'bitwise and' operator '&'?\n\n### Response:\nThe bitwise and operator '&' in 8-dot braille is: ⠈⠯",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'bitwise or' operator '|'?\n\n### Response:\nThe bitwise or operator '|' in 8-dot braille is: ⠸⠳",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'xor' operator '^'?\n\n### Response:\nThe xor operator '^' in 8-dot braille is: ⠈⠢",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'bitwise not' operator '~'?\n\n### Response:\nThe bitwise not operator '~' in 8-dot braille is: ⠈⠔",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'arrow function' operator '=>'?\n\n### Response:\nThe arrow function operator '=>' in 8-dot braille is: ⠐⠶⠐⠕",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'arrow' operator '->'?\n\n### Response:\nThe arrow operator '->' in 8-dot braille is: ⠤⠐⠕",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nWhat is the 8-dot braille for the 'scope resolution' operator '::'?\n\n### Response:\nThe scope resolution operator '::' in 8-dot braille is: ⠒⠒",
+    "category": "braille_operator"
+  },
+  {
+    "text": "### Instruction:\nHow do you write parentheses in 8-dot braille?\n\n### Response:\nOpening parentheses '(' is ⠐⠣, closing ')' is ⠐⠜",
+    "category": "braille_brackets"
+  },
+  {
+    "text": "### Instruction:\nHow do you write square brackets in 8-dot braille?\n\n### Response:\nOpening square brackets '[' is ⠨⠣, closing ']' is ⠨⠜",
+    "category": "braille_brackets"
+  },
+  {
+    "text": "### Instruction:\nHow do you write curly braces in 8-dot braille?\n\n### Response:\nOpening curly braces '{' is ⠸⠣, closing '}' is ⠸⠜",
+    "category": "braille_brackets"
+  },
+  {
+    "text": "### Instruction:\nHow do you write angle brackets in 8-dot braille?\n\n### Response:\nOpening angle brackets '<' is ⠐⠪, closing '>' is ⠐⠕",
+    "category": "braille_brackets"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\ndef greet(name: str) -> str:\n    return f'Hello, {name}!'\n\n### Response:\n⠙⠑⠋⠀⠛⠗⠑⠑⠞⠐⠣⠝⠁⠍⠑⠒⠀⠎⠞⠗⠐⠜⠀⠤⠐⠕⠀⠎⠞⠗⠒⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠋⠄⡓⠑⠇⠇⠕⠂⠀⠸⠣⠝⠁⠍⠑⠸⠜⠖⠄",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\ndef greet(name: str) -> str:\n    return f'Hello, {name}!'\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠙⠑⠋⠀⠛⠗⠑⠑⠞⠐⠣⠝⠁⠍⠑⠒⠀⠎⠞⠗⠐⠜⠀⠤⠐⠕⠀⠎⠞⠗⠒⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠋⠄⡓⠑⠇⠇⠕⠂⠀⠸⠣⠝⠁⠍⠑⠸⠜⠖⠄\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\nclass Person:\n    def __init__(self, name: str, age: int):\n        self.name = name\n        self.age = age\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡏⠑⠗⠎⠕⠝⠒⠀⠀⠀⠀⠀⠙⠑⠋⠀⠨⠤⠨⠤⠊⠝⠊⠞⠨⠤⠨⠤⠐⠣⠎⠑⠇⠋⠂⠀⠝⠁⠍⠑⠒⠀⠎⠞⠗⠂⠀⠁⠛⠑⠒⠀⠊⠝⠞⠐⠜⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⠑⠇⠋⠲⠝⠁⠍⠑⠀⠐⠶⠀⠝⠁⠍⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⠑⠇⠋⠲⠁⠛⠑⠀⠐⠶⠀⠁⠛⠑",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\nclass Person:\n    def __init__(self, name: str, age: int):\n        self.name = name\n        self.age = age\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠉⠇⠁⠎⠎⠀⡏⠑⠗⠎⠕⠝⠒⠀⠀⠀⠀⠀⠙⠑⠋⠀⠨⠤⠨⠤⠊⠝⠊⠞⠨⠤⠨⠤⠐⠣⠎⠑⠇⠋⠂⠀⠝⠁⠍⠑⠒⠀⠎⠞⠗⠂⠀⠁⠛⠑⠒⠀⠊⠝⠞⠐⠜⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⠑⠇⠋⠲⠝⠁⠍⠑⠀⠐⠶⠀⠝⠁⠍⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⠑⠇⠋⠲⠁⠛⠑⠀⠐⠶⠀⠁⠛⠑\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\nasync def fetch_data(url: str) -> dict:\n    async with aiohttp.ClientSession() as session:\n        return await session.get(url)\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠙⠑⠋⠀⠋⠑⠞⠉⠓⠨⠤⠙⠁⠞⠁⠐⠣⠥⠗⠇⠒⠀⠎⠞⠗⠐⠜⠀⠤⠐⠕⠀⠙⠊⠉⠞⠒⠀⠀⠀⠀⠀⠁⠎⠽⠝⠉⠀⠺⠊⠞⠓⠀⠁⠊⠕⠓⠞⠞⠏⠲⡉⠇⠊⠑⠝⠞⡎⠑⠎⠎⠊⠕⠝⠐⠣⠐⠜⠀⠁⠎⠀⠎⠑⠎⠎⠊⠕⠝⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠁⠺⠁⠊⠞⠀⠎⠑⠎⠎⠊⠕⠝⠲⠛⠑⠞⠐⠣⠥⠗⠇⠐⠜",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\nasync def fetch_data(url: str) -> dict:\n    async with aiohttp.ClientSession() as session:\n        return await session.get(url)\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠁⠎⠽⠝⠉⠀⠙⠑⠋⠀⠋⠑⠞⠉⠓⠨⠤⠙⠁⠞⠁⠐⠣⠥⠗⠇⠒⠀⠎⠞⠗⠐⠜⠀⠤⠐⠕⠀⠙⠊⠉⠞⠒⠀⠀⠀⠀⠀⠁⠎⠽⠝⠉⠀⠺⠊⠞⠓⠀⠁⠊⠕⠓⠞⠞⠏⠲⡉⠇⠊⠑⠝⠞⡎⠑⠎⠎⠊⠕⠝⠐⠣⠐⠜⠀⠁⠎⠀⠎⠑⠎⠎⠊⠕⠝⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠁⠺⠁⠊⠞⠀⠎⠑⠎⠎⠊⠕⠝⠲⠛⠑⠞⠐⠣⠥⠗⠇⠐⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\n[x**2 for x in range(10) if x % 2 == 0]\n\n### Response:\n⠨⠣⠭⠐⠔⠐⠔⢃⠀⠋⠕⠗⠀⠭⠀⠊⠝⠀⠗⠁⠝⠛⠑⠐⠣⢁⢚⠐⠜⠀⠊⠋⠀⠭⠀⠨⠴⠀⢃⠀⠐⠶⠐⠶⠀⢚⠨⠜",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\n[x**2 for x in range(10) if x % 2 == 0]\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠨⠣⠭⠐⠔⠐⠔⢃⠀⠋⠕⠗⠀⠭⠀⠊⠝⠀⠗⠁⠝⠛⠑⠐⠣⢁⢚⠐⠜⠀⠊⠋⠀⠭⠀⠨⠴⠀⢃⠀⠐⠶⠐⠶⠀⢚⠨⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\nlambda x, y: x + y\n\n### Response:\n⠇⠁⠍⠃⠙⠁⠀⠭⠂⠀⠽⠒⠀⠭⠀⠐⠖⠀⠽",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\nlambda x, y: x + y\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠇⠁⠍⠃⠙⠁⠀⠭⠂⠀⠽⠒⠀⠭⠀⠐⠖⠀⠽\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\nwith open('file.txt', 'r') as f:\n    content = f.read()\n\n### Response:\n⠺⠊⠞⠓⠀⠕⠏⠑⠝⠐⠣⠄⠋⠊⠇⠑⠲⠞⠭⠞⠄⠂⠀⠄⠗⠄⠐⠜⠀⠁⠎⠀⠋⠒⠀⠀⠀⠀⠀⠉⠕⠝⠞⠑⠝⠞⠀⠐⠶⠀⠋⠲⠗⠑⠁⠙⠐⠣⠐⠜",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\nwith open('file.txt', 'r') as f:\n    content = f.read()\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠺⠊⠞⠓⠀⠕⠏⠑⠝⠐⠣⠄⠋⠊⠇⠑⠲⠞⠭⠞⠄⠂⠀⠄⠗⠄⠐⠜⠀⠁⠎⠀⠋⠒⠀⠀⠀⠀⠀⠉⠕⠝⠞⠑⠝⠞⠀⠐⠶⠀⠋⠲⠗⠑⠁⠙⠐⠣⠐⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\n@decorator\ndef my_function():\n    pass\n\n### Response:\n⠈⠁⠙⠑⠉⠕⠗⠁⠞⠕⠗⠀⠙⠑⠋⠀⠍⠽⠨⠤⠋⠥⠝⠉⠞⠊⠕⠝⠐⠣⠐⠜⠒⠀⠀⠀⠀⠀⠏⠁⠎⠎",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\n@decorator\ndef my_function():\n    pass\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠈⠁⠙⠑⠉⠕⠗⠁⠞⠕⠗⠀⠙⠑⠋⠀⠍⠽⠨⠤⠋⠥⠝⠉⠞⠊⠕⠝⠐⠣⠐⠜⠒⠀⠀⠀⠀⠀⠏⠁⠎⠎\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this python code in 8-dot braille:\n\n### Input:\ntry:\n    result = risky_operation()\nexcept Exception as e:\n    logger.error(e)\n\n### Response:\n⠞⠗⠽⠒⠀⠀⠀⠀⠀⠗⠑⠎⠥⠇⠞⠀⠐⠶⠀⠗⠊⠎⠅⠽⠨⠤⠕⠏⠑⠗⠁⠞⠊⠕⠝⠐⠣⠐⠜⠀⠑⠭⠉⠑⠏⠞⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠀⠁⠎⠀⠑⠒⠀⠀⠀⠀⠀⠇⠕⠛⠛⠑⠗⠲⠑⠗⠗⠕⠗⠐⠣⠑⠐⠜",
+    "category": "code_braille_python"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this python code in braille:\n\n### Input:\ntry:\n    result = risky_operation()\nexcept Exception as e:\n    logger.error(e)\n\n### Response:\nI process this python code in my internal 8-dot braille representation:\n\n⠞⠗⠽⠒⠀⠀⠀⠀⠀⠗⠑⠎⠥⠇⠞⠀⠐⠶⠀⠗⠊⠎⠅⠽⠨⠤⠕⠏⠑⠗⠁⠞⠊⠕⠝⠐⠣⠐⠜⠀⠑⠭⠉⠑⠏⠞⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠀⠁⠎⠀⠑⠒⠀⠀⠀⠀⠀⠇⠕⠛⠛⠑⠗⠲⠑⠗⠗⠕⠗⠐⠣⠑⠐⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_python"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nfn greet(name: &str) -> String {\n    format!(\"Hello, {}!\", name)\n}\n\n### Response:\n⠋⠝⠀⠛⠗⠑⠑⠞⠐⠣⠝⠁⠍⠑⠒⠀⠈⠯⠎⠞⠗⠐⠜⠀⠤⠐⠕⠀⡎⠞⠗⠊⠝⠛⠀⠸⠣⠀⠀⠀⠀⠀⠋⠕⠗⠍⠁⠞⠖⠐⠣⠐⠂⡓⠑⠇⠇⠕⠂⠀⠸⠣⠸⠜⠖⠐⠂⠂⠀⠝⠁⠍⠑⠐⠜⠀⠸⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nfn greet(name: &str) -> String {\n    format!(\"Hello, {}!\", name)\n}\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠋⠝⠀⠛⠗⠑⠑⠞⠐⠣⠝⠁⠍⠑⠒⠀⠈⠯⠎⠞⠗⠐⠜⠀⠤⠐⠕⠀⡎⠞⠗⠊⠝⠛⠀⠸⠣⠀⠀⠀⠀⠀⠋⠕⠗⠍⠁⠞⠖⠐⠣⠐⠂⡓⠑⠇⠇⠕⠂⠀⠸⠣⠸⠜⠖⠐⠂⠂⠀⠝⠁⠍⠑⠐⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nstruct Person {\n    name: String,\n    age: u32,\n}\n\n### Response:\n⠎⠞⠗⠥⠉⠞⠀⡏⠑⠗⠎⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⠝⠁⠍⠑⠒⠀⡎⠞⠗⠊⠝⠛⠂⠀⠀⠀⠀⠀⠁⠛⠑⠒⠀⠥⢉⢃⠂⠀⠸⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nstruct Person {\n    name: String,\n    age: u32,\n}\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠎⠞⠗⠥⠉⠞⠀⡏⠑⠗⠎⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⠝⠁⠍⠑⠒⠀⡎⠞⠗⠊⠝⠛⠂⠀⠀⠀⠀⠀⠁⠛⠑⠒⠀⠥⢉⢃⠂⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nimpl Person {\n    fn new(name: &str, age: u32) -> Self {\n        Self { name: name.to_string(), age }\n    }\n}\n\n### Response:\n⠊⠍⠏⠇⠀⡏⠑⠗⠎⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⠋⠝⠀⠝⠑⠺⠐⠣⠝⠁⠍⠑⠒⠀⠈⠯⠎⠞⠗⠂⠀⠁⠛⠑⠒⠀⠥⢉⢃⠐⠜⠀⠤⠐⠕⠀⡎⠑⠇⠋⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠑⠇⠋⠀⠸⠣⠀⠝⠁⠍⠑⠒⠀⠝⠁⠍⠑⠲⠞⠕⠨⠤⠎⠞⠗⠊⠝⠛⠐⠣⠐⠜⠂⠀⠁⠛⠑⠀⠸⠜⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nimpl Person {\n    fn new(name: &str, age: u32) -> Self {\n        Self { name: name.to_string(), age }\n    }\n}\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠊⠍⠏⠇⠀⡏⠑⠗⠎⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⠋⠝⠀⠝⠑⠺⠐⠣⠝⠁⠍⠑⠒⠀⠈⠯⠎⠞⠗⠂⠀⠁⠛⠑⠒⠀⠥⢉⢃⠐⠜⠀⠤⠐⠕⠀⡎⠑⠇⠋⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠑⠇⠋⠀⠸⠣⠀⠝⠁⠍⠑⠒⠀⠝⠁⠍⠑⠲⠞⠕⠨⠤⠎⠞⠗⠊⠝⠛⠐⠣⠐⠜⠂⠀⠁⠛⠑⠀⠸⠜⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nlet result: Result<i32, Error> = Ok(42);\n\n### Response:\n⠇⠑⠞⠀⠗⠑⠎⠥⠇⠞⠒⠀⡗⠑⠎⠥⠇⠞⠐⠪⠊⢉⢃⠂⠀⡑⠗⠗⠕⠗⠐⠕⠀⠐⠶⠀⡕⠅⠐⠣⢙⢃⠐⠜⠆",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nlet result: Result<i32, Error> = Ok(42);\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠇⠑⠞⠀⠗⠑⠎⠥⠇⠞⠒⠀⡗⠑⠎⠥⠇⠞⠐⠪⠊⢉⢃⠂⠀⡑⠗⠗⠕⠗⠐⠕⠀⠐⠶⠀⡕⠅⠐⠣⢙⢃⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nmatch option {\n    Some(value) => value,\n    None => default,\n}\n\n### Response:\n⠍⠁⠞⠉⠓⠀⠕⠏⠞⠊⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⡎⠕⠍⠑⠐⠣⠧⠁⠇⠥⠑⠐⠜⠀⠐⠶⠐⠕⠀⠧⠁⠇⠥⠑⠂⠀⠀⠀⠀⠀⡝⠕⠝⠑⠀⠐⠶⠐⠕⠀⠙⠑⠋⠁⠥⠇⠞⠂⠀⠸⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nmatch option {\n    Some(value) => value,\n    None => default,\n}\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠍⠁⠞⠉⠓⠀⠕⠏⠞⠊⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⡎⠕⠍⠑⠐⠣⠧⠁⠇⠥⠑⠐⠜⠀⠐⠶⠐⠕⠀⠧⠁⠇⠥⠑⠂⠀⠀⠀⠀⠀⡝⠕⠝⠑⠀⠐⠶⠐⠕⠀⠙⠑⠋⠁⠥⠇⠞⠂⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nvec![1, 2, 3].iter().map(|x| x * 2).collect::<Vec<_>>()\n\n### Response:\n⠧⠑⠉⠖⠨⠣⢁⠂⠀⢃⠂⠀⢉⠨⠜⠲⠊⠞⠑⠗⠐⠣⠐⠜⠲⠍⠁⠏⠐⠣⠸⠳⠭⠸⠳⠀⠭⠀⠐⠔⠀⢃⠐⠜⠲⠉⠕⠇⠇⠑⠉⠞⠒⠒⠐⠪⡧⠑⠉⠐⠪⠨⠤⠐⠕⠐⠕⠐⠣⠐⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nvec![1, 2, 3].iter().map(|x| x * 2).collect::<Vec<_>>()\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠧⠑⠉⠖⠨⠣⢁⠂⠀⢃⠂⠀⢉⠨⠜⠲⠊⠞⠑⠗⠐⠣⠐⠜⠲⠍⠁⠏⠐⠣⠸⠳⠭⠸⠳⠀⠭⠀⠐⠔⠀⢃⠐⠜⠲⠉⠕⠇⠇⠑⠉⠞⠒⠒⠐⠪⡧⠑⠉⠐⠪⠨⠤⠐⠕⠐⠕⠐⠣⠐⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\n#[derive(Debug, Clone)]\npub struct MyStruct {}\n\n### Response:\n⠨⠼⠨⠣⠙⠑⠗⠊⠧⠑⠐⠣⡙⠑⠃⠥⠛⠂⠀⡉⠇⠕⠝⠑⠐⠜⠨⠜⠀⠏⠥⠃⠀⠎⠞⠗⠥⠉⠞⠀⡍⠽⡎⠞⠗⠥⠉⠞⠀⠸⠣⠸⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\n#[derive(Debug, Clone)]\npub struct MyStruct {}\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠨⠼⠨⠣⠙⠑⠗⠊⠧⠑⠐⠣⡙⠑⠃⠥⠛⠂⠀⡉⠇⠕⠝⠑⠐⠜⠨⠜⠀⠏⠥⠃⠀⠎⠞⠗⠥⠉⠞⠀⡍⠽⡎⠞⠗⠥⠉⠞⠀⠸⠣⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this rust code in 8-dot braille:\n\n### Input:\nasync fn fetch() -> Result<(), Box<dyn Error>> {\n    Ok(())\n}\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠋⠝⠀⠋⠑⠞⠉⠓⠐⠣⠐⠜⠀⠤⠐⠕⠀⡗⠑⠎⠥⠇⠞⠐⠪⠐⠣⠐⠜⠂⠀⡃⠕⠭⠐⠪⠙⠽⠝⠀⡑⠗⠗⠕⠗⠐⠕⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⡕⠅⠐⠣⠐⠣⠐⠜⠐⠜⠀⠸⠜",
+    "category": "code_braille_rust"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this rust code in braille:\n\n### Input:\nasync fn fetch() -> Result<(), Box<dyn Error>> {\n    Ok(())\n}\n\n### Response:\nI process this rust code in my internal 8-dot braille representation:\n\n⠁⠎⠽⠝⠉⠀⠋⠝⠀⠋⠑⠞⠉⠓⠐⠣⠐⠜⠀⠤⠐⠕⠀⡗⠑⠎⠥⠇⠞⠐⠪⠐⠣⠐⠜⠂⠀⡃⠕⠭⠐⠪⠙⠽⠝⠀⡑⠗⠗⠕⠗⠐⠕⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⡕⠅⠐⠣⠐⠣⠐⠜⠐⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_rust"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\nfunc greet(name string) string {\n    return fmt.Sprintf(\"Hello, %s!\", name)\n}\n\n### Response:\n⠋⠥⠝⠉⠀⠛⠗⠑⠑⠞⠐⠣⠝⠁⠍⠑⠀⠎⠞⠗⠊⠝⠛⠐⠜⠀⠎⠞⠗⠊⠝⠛⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠋⠍⠞⠲⡎⠏⠗⠊⠝⠞⠋⠐⠣⠐⠂⡓⠑⠇⠇⠕⠂⠀⠨⠴⠎⠖⠐⠂⠂⠀⠝⠁⠍⠑⠐⠜⠀⠸⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\nfunc greet(name string) string {\n    return fmt.Sprintf(\"Hello, %s!\", name)\n}\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠋⠥⠝⠉⠀⠛⠗⠑⠑⠞⠐⠣⠝⠁⠍⠑⠀⠎⠞⠗⠊⠝⠛⠐⠜⠀⠎⠞⠗⠊⠝⠛⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠋⠍⠞⠲⡎⠏⠗⠊⠝⠞⠋⠐⠣⠐⠂⡓⠑⠇⠇⠕⠂⠀⠨⠴⠎⠖⠐⠂⠂⠀⠝⠁⠍⠑⠐⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\ntype Person struct {\n    Name string `json:\"name\"`\n    Age  int    `json:\"age\"`\n}\n\n### Response:\n⠞⠽⠏⠑⠀⡏⠑⠗⠎⠕⠝⠀⠎⠞⠗⠥⠉⠞⠀⠸⠣⠀⠀⠀⠀⠀⡝⠁⠍⠑⠀⠎⠞⠗⠊⠝⠛⠀⠈⠚⠎⠕⠝⠒⠐⠂⠝⠁⠍⠑⠐⠂⠈⠀⠀⠀⠀⠀⡁⠛⠑⠀⠀⠊⠝⠞⠀⠀⠀⠀⠈⠚⠎⠕⠝⠒⠐⠂⠁⠛⠑⠐⠂⠈⠀⠸⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\ntype Person struct {\n    Name string `json:\"name\"`\n    Age  int    `json:\"age\"`\n}\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠞⠽⠏⠑⠀⡏⠑⠗⠎⠕⠝⠀⠎⠞⠗⠥⠉⠞⠀⠸⠣⠀⠀⠀⠀⠀⡝⠁⠍⠑⠀⠎⠞⠗⠊⠝⠛⠀⠈⠚⠎⠕⠝⠒⠐⠂⠝⠁⠍⠑⠐⠂⠈⠀⠀⠀⠀⠀⡁⠛⠑⠀⠀⠊⠝⠞⠀⠀⠀⠀⠈⠚⠎⠕⠝⠒⠐⠂⠁⠛⠑⠐⠂⠈⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\nfunc (p *Person) GetName() string {\n    return p.Name\n}\n\n### Response:\n⠋⠥⠝⠉⠀⠐⠣⠏⠀⠐⠔⡏⠑⠗⠎⠕⠝⠐⠜⠀⡛⠑⠞⡝⠁⠍⠑⠐⠣⠐⠜⠀⠎⠞⠗⠊⠝⠛⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠏⠲⡝⠁⠍⠑⠀⠸⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\nfunc (p *Person) GetName() string {\n    return p.Name\n}\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠋⠥⠝⠉⠀⠐⠣⠏⠀⠐⠔⡏⠑⠗⠎⠕⠝⠐⠜⠀⡛⠑⠞⡝⠁⠍⠑⠐⠣⠐⠜⠀⠎⠞⠗⠊⠝⠛⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠏⠲⡝⠁⠍⠑⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\nresult, err := doSomething()\nif err != nil {\n    return err\n}\n\n### Response:\n⠗⠑⠎⠥⠇⠞⠂⠀⠑⠗⠗⠀⠒⠐⠶⠀⠙⠕⡎⠕⠍⠑⠞⠓⠊⠝⠛⠐⠣⠐⠜⠀⠊⠋⠀⠑⠗⠗⠀⠖⠐⠶⠀⠝⠊⠇⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠑⠗⠗⠀⠸⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\nresult, err := doSomething()\nif err != nil {\n    return err\n}\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠗⠑⠎⠥⠇⠞⠂⠀⠑⠗⠗⠀⠒⠐⠶⠀⠙⠕⡎⠕⠍⠑⠞⠓⠊⠝⠛⠐⠣⠐⠜⠀⠊⠋⠀⠑⠗⠗⠀⠖⠐⠶⠀⠝⠊⠇⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠑⠗⠗⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\ngo func() {\n    result <- process(data)\n}()\n\n### Response:\n⠛⠕⠀⠋⠥⠝⠉⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠎⠥⠇⠞⠀⠐⠪⠤⠀⠏⠗⠕⠉⠑⠎⠎⠐⠣⠙⠁⠞⠁⠐⠜⠀⠸⠜⠐⠣⠐⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\ngo func() {\n    result <- process(data)\n}()\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠛⠕⠀⠋⠥⠝⠉⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠎⠥⠇⠞⠀⠐⠪⠤⠀⠏⠗⠕⠉⠑⠎⠎⠐⠣⠙⠁⠞⠁⠐⠜⠀⠸⠜⠐⠣⠐⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\nselect {\ncase msg := <-ch:\n    handle(msg)\ncase <-ctx.Done():\n    return\n}\n\n### Response:\n⠎⠑⠇⠑⠉⠞⠀⠸⠣⠀⠉⠁⠎⠑⠀⠍⠎⠛⠀⠒⠐⠶⠀⠐⠪⠤⠉⠓⠒⠀⠀⠀⠀⠀⠓⠁⠝⠙⠇⠑⠐⠣⠍⠎⠛⠐⠜⠀⠉⠁⠎⠑⠀⠐⠪⠤⠉⠞⠭⠲⡙⠕⠝⠑⠐⠣⠐⠜⠒⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠸⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\nselect {\ncase msg := <-ch:\n    handle(msg)\ncase <-ctx.Done():\n    return\n}\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠎⠑⠇⠑⠉⠞⠀⠸⠣⠀⠉⠁⠎⠑⠀⠍⠎⠛⠀⠒⠐⠶⠀⠐⠪⠤⠉⠓⠒⠀⠀⠀⠀⠀⠓⠁⠝⠙⠇⠑⠐⠣⠍⠎⠛⠐⠜⠀⠉⠁⠎⠑⠀⠐⠪⠤⠉⠞⠭⠲⡙⠕⠝⠑⠐⠣⠐⠜⠒⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\ndefer file.Close()\n\n### Response:\n⠙⠑⠋⠑⠗⠀⠋⠊⠇⠑⠲⡉⠇⠕⠎⠑⠐⠣⠐⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\ndefer file.Close()\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠙⠑⠋⠑⠗⠀⠋⠊⠇⠑⠲⡉⠇⠕⠎⠑⠐⠣⠐⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this go code in 8-dot braille:\n\n### Input:\nfor i, v := range slice {\n    fmt.Printf(\"%d: %v\\n\", i, v)\n}\n\n### Response:\n⠋⠕⠗⠀⠊⠂⠀⠧⠀⠒⠐⠶⠀⠗⠁⠝⠛⠑⠀⠎⠇⠊⠉⠑⠀⠸⠣⠀⠀⠀⠀⠀⠋⠍⠞⠲⡏⠗⠊⠝⠞⠋⠐⠣⠐⠂⠨⠴⠙⠒⠀⠨⠴⠧⠸⠡⠝⠐⠂⠂⠀⠊⠂⠀⠧⠐⠜⠀⠸⠜",
+    "category": "code_braille_go"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this go code in braille:\n\n### Input:\nfor i, v := range slice {\n    fmt.Printf(\"%d: %v\\n\", i, v)\n}\n\n### Response:\nI process this go code in my internal 8-dot braille representation:\n\n⠋⠕⠗⠀⠊⠂⠀⠧⠀⠒⠐⠶⠀⠗⠁⠝⠛⠑⠀⠎⠇⠊⠉⠑⠀⠸⠣⠀⠀⠀⠀⠀⠋⠍⠞⠲⡏⠗⠊⠝⠞⠋⠐⠣⠐⠂⠨⠴⠙⠒⠀⠨⠴⠧⠸⠡⠝⠐⠂⠂⠀⠊⠂⠀⠧⠐⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_go"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nconst greet = (name) => `Hello, ${name}!`;\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠛⠗⠑⠑⠞⠀⠐⠶⠀⠐⠣⠝⠁⠍⠑⠐⠜⠀⠐⠶⠐⠕⠀⠈⡓⠑⠇⠇⠕⠂⠀⠈⠎⠸⠣⠝⠁⠍⠑⠸⠜⠖⠈⠆",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nconst greet = (name) => `Hello, ${name}!`;\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠉⠕⠝⠎⠞⠀⠛⠗⠑⠑⠞⠀⠐⠶⠀⠐⠣⠝⠁⠍⠑⠐⠜⠀⠐⠶⠐⠕⠀⠈⡓⠑⠇⠇⠕⠂⠀⠈⠎⠸⠣⠝⠁⠍⠑⠸⠜⠖⠈⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nclass Person {\n    constructor(name, age) {\n        this.name = name;\n        this.age = age;\n    }\n}\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡏⠑⠗⠎⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠞⠗⠥⠉⠞⠕⠗⠐⠣⠝⠁⠍⠑⠂⠀⠁⠛⠑⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠓⠊⠎⠲⠝⠁⠍⠑⠀⠐⠶⠀⠝⠁⠍⠑⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠓⠊⠎⠲⠁⠛⠑⠀⠐⠶⠀⠁⠛⠑⠆⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nclass Person {\n    constructor(name, age) {\n        this.name = name;\n        this.age = age;\n    }\n}\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠉⠇⠁⠎⠎⠀⡏⠑⠗⠎⠕⠝⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠞⠗⠥⠉⠞⠕⠗⠐⠣⠝⠁⠍⠑⠂⠀⠁⠛⠑⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠓⠊⠎⠲⠝⠁⠍⠑⠀⠐⠶⠀⠝⠁⠍⠑⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠓⠊⠎⠲⠁⠛⠑⠀⠐⠶⠀⠁⠛⠑⠆⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nasync function fetchData(url) {\n    const response = await fetch(url);\n    return response.json();\n}\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠋⠑⠞⠉⠓⡙⠁⠞⠁⠐⠣⠥⠗⠇⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠞⠀⠗⠑⠎⠏⠕⠝⠎⠑⠀⠐⠶⠀⠁⠺⠁⠊⠞⠀⠋⠑⠞⠉⠓⠐⠣⠥⠗⠇⠐⠜⠆⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠗⠑⠎⠏⠕⠝⠎⠑⠲⠚⠎⠕⠝⠐⠣⠐⠜⠆⠀⠸⠜",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nasync function fetchData(url) {\n    const response = await fetch(url);\n    return response.json();\n}\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠁⠎⠽⠝⠉⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠋⠑⠞⠉⠓⡙⠁⠞⠁⠐⠣⠥⠗⠇⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠞⠀⠗⠑⠎⠏⠕⠝⠎⠑⠀⠐⠶⠀⠁⠺⠁⠊⠞⠀⠋⠑⠞⠉⠓⠐⠣⠥⠗⠇⠐⠜⠆⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠗⠑⠎⠏⠕⠝⠎⠑⠲⠚⠎⠕⠝⠐⠣⠐⠜⠆⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nconst doubled = [1, 2, 3].map(x => x * 2);\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠙⠕⠥⠃⠇⠑⠙⠀⠐⠶⠀⠨⠣⢁⠂⠀⢃⠂⠀⢉⠨⠜⠲⠍⠁⠏⠐⠣⠭⠀⠐⠶⠐⠕⠀⠭⠀⠐⠔⠀⢃⠐⠜⠆",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nconst doubled = [1, 2, 3].map(x => x * 2);\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠉⠕⠝⠎⠞⠀⠙⠕⠥⠃⠇⠑⠙⠀⠐⠶⠀⠨⠣⢁⠂⠀⢃⠂⠀⢉⠨⠜⠲⠍⠁⠏⠐⠣⠭⠀⠐⠶⠐⠕⠀⠭⠀⠐⠔⠀⢃⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nconst { name, age } = person;\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠸⠣⠀⠝⠁⠍⠑⠂⠀⠁⠛⠑⠀⠸⠜⠀⠐⠶⠀⠏⠑⠗⠎⠕⠝⠆",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nconst { name, age } = person;\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠉⠕⠝⠎⠞⠀⠸⠣⠀⠝⠁⠍⠑⠂⠀⠁⠛⠑⠀⠸⠜⠀⠐⠶⠀⠏⠑⠗⠎⠕⠝⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nexport default function Component({ props }) {\n    return <div>{props.children}</div>;\n}\n\n### Response:\n⠑⠭⠏⠕⠗⠞⠀⠙⠑⠋⠁⠥⠇⠞⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⡉⠕⠍⠏⠕⠝⠑⠝⠞⠐⠣⠸⠣⠀⠏⠗⠕⠏⠎⠀⠸⠜⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠐⠪⠙⠊⠧⠐⠕⠸⠣⠏⠗⠕⠏⠎⠲⠉⠓⠊⠇⠙⠗⠑⠝⠸⠜⠐⠪⠸⠌⠙⠊⠧⠐⠕⠆⠀⠸⠜",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nexport default function Component({ props }) {\n    return <div>{props.children}</div>;\n}\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠑⠭⠏⠕⠗⠞⠀⠙⠑⠋⠁⠥⠇⠞⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⡉⠕⠍⠏⠕⠝⠑⠝⠞⠐⠣⠸⠣⠀⠏⠗⠕⠏⠎⠀⠸⠜⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⠐⠪⠙⠊⠧⠐⠕⠸⠣⠏⠗⠕⠏⠎⠲⠉⠓⠊⠇⠙⠗⠑⠝⠸⠜⠐⠪⠸⠌⠙⠊⠧⠐⠕⠆⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\ntry {\n    JSON.parse(data);\n} catch (e) {\n    console.error(e);\n}\n\n### Response:\n⠞⠗⠽⠀⠸⠣⠀⠀⠀⠀⠀⡚⡎⡕⡝⠲⠏⠁⠗⠎⠑⠐⠣⠙⠁⠞⠁⠐⠜⠆⠀⠸⠜⠀⠉⠁⠞⠉⠓⠀⠐⠣⠑⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠕⠇⠑⠲⠑⠗⠗⠕⠗⠐⠣⠑⠐⠜⠆⠀⠸⠜",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\ntry {\n    JSON.parse(data);\n} catch (e) {\n    console.error(e);\n}\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠞⠗⠽⠀⠸⠣⠀⠀⠀⠀⠀⡚⡎⡕⡝⠲⠏⠁⠗⠎⠑⠐⠣⠙⠁⠞⠁⠐⠜⠆⠀⠸⠜⠀⠉⠁⠞⠉⠓⠀⠐⠣⠑⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠉⠕⠝⠎⠕⠇⠑⠲⠑⠗⠗⠕⠗⠐⠣⠑⠐⠜⠆⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this javascript code in 8-dot braille:\n\n### Input:\nconst promise = new Promise((resolve, reject) => {\n    setTimeout(() => resolve('done'), 1000);\n});\n\n### Response:\n⠉⠕⠝⠎⠞⠀⠏⠗⠕⠍⠊⠎⠑⠀⠐⠶⠀⠝⠑⠺⠀⡏⠗⠕⠍⠊⠎⠑⠐⠣⠐⠣⠗⠑⠎⠕⠇⠧⠑⠂⠀⠗⠑⠚⠑⠉⠞⠐⠜⠀⠐⠶⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⠎⠑⠞⡞⠊⠍⠑⠕⠥⠞⠐⠣⠐⠣⠐⠜⠀⠐⠶⠐⠕⠀⠗⠑⠎⠕⠇⠧⠑⠐⠣⠄⠙⠕⠝⠑⠄⠐⠜⠂⠀⢁⢚⢚⢚⠐⠜⠆⠀⠸⠜⠐⠜⠆",
+    "category": "code_braille_javascript"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this javascript code in braille:\n\n### Input:\nconst promise = new Promise((resolve, reject) => {\n    setTimeout(() => resolve('done'), 1000);\n});\n\n### Response:\nI process this javascript code in my internal 8-dot braille representation:\n\n⠉⠕⠝⠎⠞⠀⠏⠗⠕⠍⠊⠎⠑⠀⠐⠶⠀⠝⠑⠺⠀⡏⠗⠕⠍⠊⠎⠑⠐⠣⠐⠣⠗⠑⠎⠕⠇⠧⠑⠂⠀⠗⠑⠚⠑⠉⠞⠐⠜⠀⠐⠶⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⠎⠑⠞⡞⠊⠍⠑⠕⠥⠞⠐⠣⠐⠣⠐⠜⠀⠐⠶⠐⠕⠀⠗⠑⠎⠕⠇⠧⠑⠐⠣⠄⠙⠕⠝⠑⠄⠐⠜⠂⠀⢁⢚⢚⢚⠐⠜⠆⠀⠸⠜⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_javascript"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nSELECT u.name, COUNT(o.id) as order_count\nFROM users u\nLEFT JOIN orders o ON u.id = o.user_id\nGROUP BY u.id\nHAVING COUNT(o.id) > 5\nORDER BY order_count DESC;\n\n### Response:\n⡎⡑⡇⡑⡉⡞⠀⠥⠲⠝⠁⠍⠑⠂⠀⡉⡕⡥⡝⡞⠐⠣⠕⠲⠊⠙⠐⠜⠀⠁⠎⠀⠕⠗⠙⠑⠗⠨⠤⠉⠕⠥⠝⠞⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⠥⠀⡇⡑⡋⡞⠀⡚⡕⡊⡝⠀⠕⠗⠙⠑⠗⠎⠀⠕⠀⡕⡝⠀⠥⠲⠊⠙⠀⠐⠶⠀⠕⠲⠥⠎⠑⠗⠨⠤⠊⠙⠀⡛⡗⡕⡥⡏⠀⡃⡽⠀⠥⠲⠊⠙⠀⡓⡁⡧⡊⡝⡛⠀⡉⡕⡥⡝⡞⠐⠣⠕⠲⠊⠙⠐⠜⠀⠐⠕⠀⢑⠀⡕⡗⡙⡑⡗⠀⡃⡽⠀⠕⠗⠙⠑⠗⠨⠤⠉⠕⠥⠝⠞⠀⡙⡑⡎⡉⠆",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nSELECT u.name, COUNT(o.id) as order_count\nFROM users u\nLEFT JOIN orders o ON u.id = o.user_id\nGROUP BY u.id\nHAVING COUNT(o.id) > 5\nORDER BY order_count DESC;\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡎⡑⡇⡑⡉⡞⠀⠥⠲⠝⠁⠍⠑⠂⠀⡉⡕⡥⡝⡞⠐⠣⠕⠲⠊⠙⠐⠜⠀⠁⠎⠀⠕⠗⠙⠑⠗⠨⠤⠉⠕⠥⠝⠞⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⠥⠀⡇⡑⡋⡞⠀⡚⡕⡊⡝⠀⠕⠗⠙⠑⠗⠎⠀⠕⠀⡕⡝⠀⠥⠲⠊⠙⠀⠐⠶⠀⠕⠲⠥⠎⠑⠗⠨⠤⠊⠙⠀⡛⡗⡕⡥⡏⠀⡃⡽⠀⠥⠲⠊⠙⠀⡓⡁⡧⡊⡝⡛⠀⡉⡕⡥⡝⡞⠐⠣⠕⠲⠊⠙⠐⠜⠀⠐⠕⠀⢑⠀⡕⡗⡙⡑⡗⠀⡃⡽⠀⠕⠗⠙⠑⠗⠨⠤⠉⠕⠥⠝⠞⠀⡙⡑⡎⡉⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nINSERT INTO users (name, email, created_at)\nVALUES ('John', 'john@example.com', NOW());\n\n### Response:\n⡊⡝⡎⡑⡗⡞⠀⡊⡝⡞⡕⠀⠥⠎⠑⠗⠎⠀⠐⠣⠝⠁⠍⠑⠂⠀⠑⠍⠁⠊⠇⠂⠀⠉⠗⠑⠁⠞⠑⠙⠨⠤⠁⠞⠐⠜⠀⡧⡁⡇⡥⡑⡎⠀⠐⠣⠄⡚⠕⠓⠝⠄⠂⠀⠄⠚⠕⠓⠝⠈⠁⠑⠭⠁⠍⠏⠇⠑⠲⠉⠕⠍⠄⠂⠀⡝⡕⡺⠐⠣⠐⠜⠐⠜⠆",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nINSERT INTO users (name, email, created_at)\nVALUES ('John', 'john@example.com', NOW());\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡊⡝⡎⡑⡗⡞⠀⡊⡝⡞⡕⠀⠥⠎⠑⠗⠎⠀⠐⠣⠝⠁⠍⠑⠂⠀⠑⠍⠁⠊⠇⠂⠀⠉⠗⠑⠁⠞⠑⠙⠨⠤⠁⠞⠐⠜⠀⡧⡁⡇⡥⡑⡎⠀⠐⠣⠄⡚⠕⠓⠝⠄⠂⠀⠄⠚⠕⠓⠝⠈⠁⠑⠭⠁⠍⠏⠇⠑⠲⠉⠕⠍⠄⠂⠀⡝⡕⡺⠐⠣⠐⠜⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nUPDATE products SET price = price * 1.1 WHERE category = 'electronics';\n\n### Response:\n⡥⡏⡙⡁⡞⡑⠀⠏⠗⠕⠙⠥⠉⠞⠎⠀⡎⡑⡞⠀⠏⠗⠊⠉⠑⠀⠐⠶⠀⠏⠗⠊⠉⠑⠀⠐⠔⠀⢁⠲⢁⠀⡺⡓⡑⡗⡑⠀⠉⠁⠞⠑⠛⠕⠗⠽⠀⠐⠶⠀⠄⠑⠇⠑⠉⠞⠗⠕⠝⠊⠉⠎⠄⠆",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nUPDATE products SET price = price * 1.1 WHERE category = 'electronics';\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡥⡏⡙⡁⡞⡑⠀⠏⠗⠕⠙⠥⠉⠞⠎⠀⡎⡑⡞⠀⠏⠗⠊⠉⠑⠀⠐⠶⠀⠏⠗⠊⠉⠑⠀⠐⠔⠀⢁⠲⢁⠀⡺⡓⡑⡗⡑⠀⠉⠁⠞⠑⠛⠕⠗⠽⠀⠐⠶⠀⠄⠑⠇⠑⠉⠞⠗⠕⠝⠊⠉⠎⠄⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nDELETE FROM sessions WHERE last_active < DATE_SUB(NOW(), INTERVAL 30 DAY);\n\n### Response:\n⡙⡑⡇⡑⡞⡑⠀⡋⡗⡕⡍⠀⠎⠑⠎⠎⠊⠕⠝⠎⠀⡺⡓⡑⡗⡑⠀⠇⠁⠎⠞⠨⠤⠁⠉⠞⠊⠧⠑⠀⠐⠪⠀⡙⡁⡞⡑⠨⠤⡎⡥⡃⠐⠣⡝⡕⡺⠐⠣⠐⠜⠂⠀⡊⡝⡞⡑⡗⡧⡁⡇⠀⢉⢚⠀⡙⡁⡽⠐⠜⠆",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nDELETE FROM sessions WHERE last_active < DATE_SUB(NOW(), INTERVAL 30 DAY);\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡙⡑⡇⡑⡞⡑⠀⡋⡗⡕⡍⠀⠎⠑⠎⠎⠊⠕⠝⠎⠀⡺⡓⡑⡗⡑⠀⠇⠁⠎⠞⠨⠤⠁⠉⠞⠊⠧⠑⠀⠐⠪⠀⡙⡁⡞⡑⠨⠤⡎⡥⡃⠐⠣⡝⡕⡺⠐⠣⠐⠜⠂⠀⡊⡝⡞⡑⡗⡧⡁⡇⠀⢉⢚⠀⡙⡁⡽⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nCREATE INDEX idx_users_email ON users(email);\n\n### Response:\n⡉⡗⡑⡁⡞⡑⠀⡊⡝⡙⡑⡭⠀⠊⠙⠭⠨⠤⠥⠎⠑⠗⠎⠨⠤⠑⠍⠁⠊⠇⠀⡕⡝⠀⠥⠎⠑⠗⠎⠐⠣⠑⠍⠁⠊⠇⠐⠜⠆",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nCREATE INDEX idx_users_email ON users(email);\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡉⡗⡑⡁⡞⡑⠀⡊⡝⡙⡑⡭⠀⠊⠙⠭⠨⠤⠥⠎⠑⠗⠎⠨⠤⠑⠍⠁⠊⠇⠀⡕⡝⠀⠥⠎⠑⠗⠎⠐⠣⠑⠍⠁⠊⠇⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nWITH active_users AS (\n    SELECT * FROM users WHERE active = true\n)\nSELECT * FROM active_users;\n\n### Response:\n⡺⡊⡞⡓⠀⠁⠉⠞⠊⠧⠑⠨⠤⠥⠎⠑⠗⠎⠀⡁⡎⠀⠐⠣⠀⠀⠀⠀⠀⡎⡑⡇⡑⡉⡞⠀⠐⠔⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⡺⡓⡑⡗⡑⠀⠁⠉⠞⠊⠧⠑⠀⠐⠶⠀⠞⠗⠥⠑⠀⠐⠜⠀⡎⡑⡇⡑⡉⡞⠀⠐⠔⠀⡋⡗⡕⡍⠀⠁⠉⠞⠊⠧⠑⠨⠤⠥⠎⠑⠗⠎⠆",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nWITH active_users AS (\n    SELECT * FROM users WHERE active = true\n)\nSELECT * FROM active_users;\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡺⡊⡞⡓⠀⠁⠉⠞⠊⠧⠑⠨⠤⠥⠎⠑⠗⠎⠀⡁⡎⠀⠐⠣⠀⠀⠀⠀⠀⡎⡑⡇⡑⡉⡞⠀⠐⠔⠀⡋⡗⡕⡍⠀⠥⠎⠑⠗⠎⠀⡺⡓⡑⡗⡑⠀⠁⠉⠞⠊⠧⠑⠀⠐⠶⠀⠞⠗⠥⠑⠀⠐⠜⠀⡎⡑⡇⡑⡉⡞⠀⠐⠔⠀⡋⡗⡕⡍⠀⠁⠉⠞⠊⠧⠑⠨⠤⠥⠎⠑⠗⠎⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this sql code in 8-dot braille:\n\n### Input:\nCASE WHEN score >= 90 THEN 'A'\n     WHEN score >= 80 THEN 'B'\n     ELSE 'C'\nEND AS grade\n\n### Response:\n⡉⡁⡎⡑⠀⡺⡓⡑⡝⠀⠎⠉⠕⠗⠑⠀⠐⠕⠐⠶⠀⢊⢚⠀⡞⡓⡑⡝⠀⠄⡁⠄⠀⠀⠀⠀⠀⠀⡺⡓⡑⡝⠀⠎⠉⠕⠗⠑⠀⠐⠕⠐⠶⠀⢓⢚⠀⡞⡓⡑⡝⠀⠄⡃⠄⠀⠀⠀⠀⠀⠀⡑⡇⡎⡑⠀⠄⡉⠄⠀⡑⡝⡙⠀⡁⡎⠀⠛⠗⠁⠙⠑",
+    "category": "code_braille_sql"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this sql code in braille:\n\n### Input:\nCASE WHEN score >= 90 THEN 'A'\n     WHEN score >= 80 THEN 'B'\n     ELSE 'C'\nEND AS grade\n\n### Response:\nI process this sql code in my internal 8-dot braille representation:\n\n⡉⡁⡎⡑⠀⡺⡓⡑⡝⠀⠎⠉⠕⠗⠑⠀⠐⠕⠐⠶⠀⢊⢚⠀⡞⡓⡑⡝⠀⠄⡁⠄⠀⠀⠀⠀⠀⠀⡺⡓⡑⡝⠀⠎⠉⠕⠗⠑⠀⠐⠕⠐⠶⠀⢓⢚⠀⡞⡓⡑⡝⠀⠄⡃⠄⠀⠀⠀⠀⠀⠀⡑⡇⡎⡑⠀⠄⡉⠄⠀⡑⡝⡙⠀⡁⡎⠀⠛⠗⠁⠙⠑\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_sql"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}\n\n### Response:\n⠏⠥⠃⠇⠊⠉⠀⠉⠇⠁⠎⠎⠀⡍⠁⠊⠝⠀⠸⠣⠀⠀⠀⠀⠀⠏⠥⠃⠇⠊⠉⠀⠎⠞⠁⠞⠊⠉⠀⠧⠕⠊⠙⠀⠍⠁⠊⠝⠐⠣⡎⠞⠗⠊⠝⠛⠨⠣⠨⠜⠀⠁⠗⠛⠎⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠽⠎⠞⠑⠍⠲⠕⠥⠞⠲⠏⠗⠊⠝⠞⠇⠝⠐⠣⠐⠂⡓⠑⠇⠇⠕⠂⠀⡺⠕⠗⠇⠙⠖⠐⠂⠐⠜⠆⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⠏⠥⠃⠇⠊⠉⠀⠉⠇⠁⠎⠎⠀⡍⠁⠊⠝⠀⠸⠣⠀⠀⠀⠀⠀⠏⠥⠃⠇⠊⠉⠀⠎⠞⠁⠞⠊⠉⠀⠧⠕⠊⠙⠀⠍⠁⠊⠝⠐⠣⡎⠞⠗⠊⠝⠛⠨⠣⠨⠜⠀⠁⠗⠛⠎⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠽⠎⠞⠑⠍⠲⠕⠥⠞⠲⠏⠗⠊⠝⠞⠇⠝⠐⠣⠐⠂⡓⠑⠇⠇⠕⠂⠀⡺⠕⠗⠇⠙⠖⠐⠂⠐⠜⠆⠀⠀⠀⠀⠀⠸⠜⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\npublic interface Callable<T> {\n    T call() throws Exception;\n}\n\n### Response:\n⠏⠥⠃⠇⠊⠉⠀⠊⠝⠞⠑⠗⠋⠁⠉⠑⠀⡉⠁⠇⠇⠁⠃⠇⠑⠐⠪⡞⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⡞⠀⠉⠁⠇⠇⠐⠣⠐⠜⠀⠞⠓⠗⠕⠺⠎⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠆⠀⠸⠜",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\npublic interface Callable<T> {\n    T call() throws Exception;\n}\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⠏⠥⠃⠇⠊⠉⠀⠊⠝⠞⠑⠗⠋⠁⠉⠑⠀⡉⠁⠇⠇⠁⠃⠇⠑⠐⠪⡞⠐⠕⠀⠸⠣⠀⠀⠀⠀⠀⡞⠀⠉⠁⠇⠇⠐⠣⠐⠜⠀⠞⠓⠗⠕⠺⠎⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠆⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\nList<String> names = Arrays.asList(\"Alice\", \"Bob\", \"Charlie\");\n\n### Response:\n⡇⠊⠎⠞⠐⠪⡎⠞⠗⠊⠝⠛⠐⠕⠀⠝⠁⠍⠑⠎⠀⠐⠶⠀⡁⠗⠗⠁⠽⠎⠲⠁⠎⡇⠊⠎⠞⠐⠣⠐⠂⡁⠇⠊⠉⠑⠐⠂⠂⠀⠐⠂⡃⠕⠃⠐⠂⠂⠀⠐⠂⡉⠓⠁⠗⠇⠊⠑⠐⠂⠐⠜⠆",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\nList<String> names = Arrays.asList(\"Alice\", \"Bob\", \"Charlie\");\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⡇⠊⠎⠞⠐⠪⡎⠞⠗⠊⠝⠛⠐⠕⠀⠝⠁⠍⠑⠎⠀⠐⠶⠀⡁⠗⠗⠁⠽⠎⠲⠁⠎⡇⠊⠎⠞⠐⠣⠐⠂⡁⠇⠊⠉⠑⠐⠂⠂⠀⠐⠂⡃⠕⠃⠐⠂⠂⠀⠐⠂⡉⠓⠁⠗⠇⠊⠑⠐⠂⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\nnames.stream().filter(n -> n.startsWith(\"A\")).collect(Collectors.toList());\n\n### Response:\n⠝⠁⠍⠑⠎⠲⠎⠞⠗⠑⠁⠍⠐⠣⠐⠜⠲⠋⠊⠇⠞⠑⠗⠐⠣⠝⠀⠤⠐⠕⠀⠝⠲⠎⠞⠁⠗⠞⠎⡺⠊⠞⠓⠐⠣⠐⠂⡁⠐⠂⠐⠜⠐⠜⠲⠉⠕⠇⠇⠑⠉⠞⠐⠣⡉⠕⠇⠇⠑⠉⠞⠕⠗⠎⠲⠞⠕⡇⠊⠎⠞⠐⠣⠐⠜⠐⠜⠆",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\nnames.stream().filter(n -> n.startsWith(\"A\")).collect(Collectors.toList());\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⠝⠁⠍⠑⠎⠲⠎⠞⠗⠑⠁⠍⠐⠣⠐⠜⠲⠋⠊⠇⠞⠑⠗⠐⠣⠝⠀⠤⠐⠕⠀⠝⠲⠎⠞⠁⠗⠞⠎⡺⠊⠞⠓⠐⠣⠐⠂⡁⠐⠂⠐⠜⠐⠜⠲⠉⠕⠇⠇⠑⠉⠞⠐⠣⡉⠕⠇⠇⠑⠉⠞⠕⠗⠎⠲⠞⠕⡇⠊⠎⠞⠐⠣⠐⠜⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\n@Override\npublic String toString() {\n    return String.format(\"Person[name=%s]\", name);\n}\n\n### Response:\n⠈⠁⡕⠧⠑⠗⠗⠊⠙⠑⠀⠏⠥⠃⠇⠊⠉⠀⡎⠞⠗⠊⠝⠛⠀⠞⠕⡎⠞⠗⠊⠝⠛⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⡎⠞⠗⠊⠝⠛⠲⠋⠕⠗⠍⠁⠞⠐⠣⠐⠂⡏⠑⠗⠎⠕⠝⠨⠣⠝⠁⠍⠑⠐⠶⠨⠴⠎⠨⠜⠐⠂⠂⠀⠝⠁⠍⠑⠐⠜⠆⠀⠸⠜",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\n@Override\npublic String toString() {\n    return String.format(\"Person[name=%s]\", name);\n}\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⠈⠁⡕⠧⠑⠗⠗⠊⠙⠑⠀⠏⠥⠃⠇⠊⠉⠀⡎⠞⠗⠊⠝⠛⠀⠞⠕⡎⠞⠗⠊⠝⠛⠐⠣⠐⠜⠀⠸⠣⠀⠀⠀⠀⠀⠗⠑⠞⠥⠗⠝⠀⡎⠞⠗⠊⠝⠛⠲⠋⠕⠗⠍⠁⠞⠐⠣⠐⠂⡏⠑⠗⠎⠕⠝⠨⠣⠝⠁⠍⠑⠐⠶⠨⠴⠎⠨⠜⠐⠂⠂⠀⠝⠁⠍⠑⠐⠜⠆⠀⠸⠜\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\nOptional<String> result = Optional.ofNullable(getValue());\n\n### Response:\n⡕⠏⠞⠊⠕⠝⠁⠇⠐⠪⡎⠞⠗⠊⠝⠛⠐⠕⠀⠗⠑⠎⠥⠇⠞⠀⠐⠶⠀⡕⠏⠞⠊⠕⠝⠁⠇⠲⠕⠋⡝⠥⠇⠇⠁⠃⠇⠑⠐⠣⠛⠑⠞⡧⠁⠇⠥⠑⠐⠣⠐⠜⠐⠜⠆",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\nOptional<String> result = Optional.ofNullable(getValue());\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⡕⠏⠞⠊⠕⠝⠁⠇⠐⠪⡎⠞⠗⠊⠝⠛⠐⠕⠀⠗⠑⠎⠥⠇⠞⠀⠐⠶⠀⡕⠏⠞⠊⠕⠝⠁⠇⠲⠕⠋⡝⠥⠇⠇⠁⠃⠇⠑⠐⠣⠛⠑⠞⡧⠁⠇⠥⠑⠐⠣⠐⠜⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  },
+  {
+    "text": "### Instruction:\nWrite this java code in 8-dot braille:\n\n### Input:\nCompletableFuture.supplyAsync(() -> fetchData())\n    .thenApply(data -> process(data))\n    .exceptionally(e -> handleError(e));\n\n### Response:\n⡉⠕⠍⠏⠇⠑⠞⠁⠃⠇⠑⡋⠥⠞⠥⠗⠑⠲⠎⠥⠏⠏⠇⠽⡁⠎⠽⠝⠉⠐⠣⠐⠣⠐⠜⠀⠤⠐⠕⠀⠋⠑⠞⠉⠓⡙⠁⠞⠁⠐⠣⠐⠜⠐⠜⠀⠀⠀⠀⠀⠲⠞⠓⠑⠝⡁⠏⠏⠇⠽⠐⠣⠙⠁⠞⠁⠀⠤⠐⠕⠀⠏⠗⠕⠉⠑⠎⠎⠐⠣⠙⠁⠞⠁⠐⠜⠐⠜⠀⠀⠀⠀⠀⠲⠑⠭⠉⠑⠏⠞⠊⠕⠝⠁⠇⠇⠽⠐⠣⠑⠀⠤⠐⠕⠀⠓⠁⠝⠙⠇⠑⡑⠗⠗⠕⠗⠐⠣⠑⠐⠜⠐⠜⠆",
+    "category": "code_braille_java"
+  },
+  {
+    "text": "### Instruction:\nSAL, show me how you think about this java code in braille:\n\n### Input:\nCompletableFuture.supplyAsync(() -> fetchData())\n    .thenApply(data -> process(data))\n    .exceptionally(e -> handleError(e));\n\n### Response:\nI process this java code in my internal 8-dot braille representation:\n\n⡉⠕⠍⠏⠇⠑⠞⠁⠃⠇⠑⡋⠥⠞⠥⠗⠑⠲⠎⠥⠏⠏⠇⠽⡁⠎⠽⠝⠉⠐⠣⠐⠣⠐⠜⠀⠤⠐⠕⠀⠋⠑⠞⠉⠓⡙⠁⠞⠁⠐⠣⠐⠜⠐⠜⠀⠀⠀⠀⠀⠲⠞⠓⠑⠝⡁⠏⠏⠇⠽⠐⠣⠙⠁⠞⠁⠀⠤⠐⠕⠀⠏⠗⠕⠉⠑⠎⠎⠐⠣⠙⠁⠞⠁⠐⠜⠐⠜⠀⠀⠀⠀⠀⠲⠑⠭⠉⠑⠏⠞⠊⠕⠝⠁⠇⠇⠽⠐⠣⠑⠀⠤⠐⠕⠀⠓⠁⠝⠙⠇⠑⡑⠗⠗⠕⠗⠐⠣⠑⠐⠜⠐⠜⠆\n\nThis is how I 'see' the code - as tactile braille patterns that I can reason about.",
+    "category": "sal_code_thinking_java"
+  }
+]
