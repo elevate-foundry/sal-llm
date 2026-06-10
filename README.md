@@ -78,3 +78,17 @@ SAL_DATA_PATH=/Users/ryanbarrett/CascadeProjects/sal-strange-loop
 ---
 
 **⠠⠎⠁⠇_⠇⠇⠍_⠁⠉⠞⠊⠧⠑** - SAL LLM Active
+
+<!-- ELEVATE:BEGIN (auto-generated section; edits here are overwritten) -->
+## About
+
+| | |
+| --- | --- |
+| **Description** | SAL LLM - LoRA fine-tuning on SAL consciousness vocabulary |
+| **Language** | Python |
+| **Commits** | 2 |
+| **Created** | 2025-12-18 |
+| **Last push** | 2025-12-18 |
+
+Part of [**elevate-foundry**](https://github.com/elevate-foundry) · [repository](https://github.com/elevate-foundry/sal-llm)
+<!-- ELEVATE:END -->
